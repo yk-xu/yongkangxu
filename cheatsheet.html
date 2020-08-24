@@ -1,0 +1,97 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title></title>
+</head>
+<body>
+<div id="layout-content">
+<p><i>斜字体</i></p>
+<p><b>加粗</b></p>
+<p><tt>等宽（li和cs等宽）</tt></p>
+<p><tt>等宽（cs和li等宽）</tt></p>
+<p>不等宽（li占的比cs小哦）</p>
+<p>不等宽（cs占的比li大哦）</p>
+<p>连字符-连字符</p>
+<p>破折号1&ndash;破折号1</p>
+<p>破折号2&#8201;&mdash;&#8201;破折号2</p>
+<p>省略号&hellip;省略号</p>
+<p>不间断空格&nbsp;不间断空格(最重要的作用就是换行时不被打断)</p>
+<p>&copy; is ©</p>
+<p>&reg; is ®</p>
+<p>&middot; is · </p>
+<p>“单引号文字”写为“单引号文字”</p>
+<p>“双引号文字”写为“双引号文字”</p>
+<p>jemdoc's的撇号jemdoc's的输入自动转换</p>
+<p><br /> 强制手动换行</p>
+<p>段落由空白行分隔（即空一行才可以另起一段）下面这句话
+（我是第二行了的）是会在同一行/段的哦</p>
+<p>LaTeX方程(暂不能用哦)</p>
+<h1>标题一</h1>
+<h2>标题二</h2>
+<h3>标题三</h3>
+<h4>标题四</h4>
+<p><a href="https://www.hojun.cn/">这是超链接写法</a> </p>
+<p>邮箱哦：(<a href="mailto:hojun@qq.com">hojun@qq.com</a>)</p>
+<p>这个会跳转到当前目录的<a href="other.html">other.html</a>，和超链接类似。</p>
+<p>这是无序列表:</p>
+<ul>
+<li><p>无序列表</p>
+<ul>
+<li><p>二级无序列表</p>
+<ul>
+<li><p>三级无序列表</p>
+</li></ul>
+</li></ul>
+</li>
+<li><p>无序列表</p>
+</li>
+</ul>
+<p>这是有序列表:</p>
+<ol>
+<li><p>level1</p>
+<ol>
+<li><p>level2</p>
+<ol>
+<li><p>level3</p>
+</li></ol>
+</li></ol>
+</li>
+<li><p>level1</p>
+</li>
+</ol>
+<dl>
+<dt>定义解释块</dt>
+<dd><p>balabala,这里解释，比如下面例子</p></dd>
+</dl>
+<dl>
+<dt>233</dt>
+<dd><p>233是一个网络用语，大致意思就是啊哈哈，非常好笑的意思。233来源于猫扑表情第233号，是一张捶地大笑的表情，因此不少网友就喜爱在贴吧和论坛发帖的时候加上一句233，用来表示哈哈大笑的意思。</p></dd>
+</dl>
+<div class="infoblock">
+<div class="blocktitle">简单块，这里是标题</div>
+<div class="blockcontent">
+<p>This is a simple text block, with a title. Notice how the previous line has only one set of braces ({}).</p>
+</div></div>
+<div class="codeblock">
+<div class="blocktitle">这个是代码块标题，后面那个是代码高亮，好像仅支持py</div>
+<div class="blockcontent"><pre>
+<span class="statement">def</span> putbsbs(l):
+  <span class="statement">for</span> i <span class="builtin">in</span> <span class="builtin">range</span>(len(l)):
+    l[i] = <span class="string">'\\b'</span> + l[i] + <span class="string">'\\b'</span>
+
+  <span class="statement">return</span> l
+</pre></div></div>
+<div class="codeblock">
+<div class="blockcontent"><pre>
+啥都不写就是不要标题~
+</pre></div></div>
+<p><h2>这是用inline html escaping包裹的h2，语法结束记的要换行，不然有bug</h2></p>
+要写html代码记的用raw，而不是楼上的：
+<form>
+First name: <input type="text" name="firstname"><br>
+Last name: <input type="text" name="lastname">
+</form>
