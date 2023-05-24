@@ -1,6 +1,6 @@
-python jemdoc.py group.jemdoc
-python jemdoc.py index-cn.jemdoc
-python jemdoc.py index.jemdoc
-python jemdoc.py publications.jemdoc
-python jemdoc.py service.jemdoc
-python jemdoc.py teaching.jemdoc
+python2 jemdoc.py group.jemdoc
+python2 jemdoc.py index-cn.jemdoc
+python2 jemdoc.py index.jemdoc
+python2 jemdoc.py publications.jemdoc
+python2 jemdoc.py service.jemdoc
+python2 jemdoc.py teaching.jemdoc
