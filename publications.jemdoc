@@ -2,8 +2,9 @@
 =Publications
 
 == Journal Papers
+. L. Liu, *M. Lu**, S. Wang, F. Deng and J. Chen, "Robust Distributed Nash Equilibrium Seeking Subject to Communication Constraints," /IEEE Transactions on Automatic Control/, DOI: 10.1109/TAC.2024.3476195.
 . Z. Bao, *M. Lu**, F. Deng and J. Chen, "Attitude Tracking of Uncertain Flexible Spacecraft Systems Subject to Unknown External Disturbances", /arXiv e-prints 2024/, DOI:10.48550/arXiv.2403.12542.
-. L. Zhang, *M. Lu**, F. Deng and J. Chen, "Distributed state estimation under jointly connected switching networks: continuous-time linear systems and discrete-time linear systems,"  /IEEE Transactions on Automatic Control/, DOI: 10.1109/TAC.2023.3279210.
+. L. Zhang, *M. Lu**, F. Deng and J. Chen, "Distributed State Estimation Under Jointly Connected Switching Networks: Continuous-Time Linear Systems and Discrete-Time Linear Systems," /IEEE Transactions on Automatic Control/, vol. 69, no. 2, pp. 1104-1111, Feb. 2024, DOI: 10.1109/TAC.2023.3279210. 
 . X. He and  *M. Lu**, "Output feedback control of uncertain Euler–Lagrange systems by internal model," /Automatica/, vol. 156, Oct. 2023, DOI: 10.1016/j.automatica.2023.111189.
 . J. Wu, *M. Lu**, F. Deng and J. Chen, “Event-triggered cooperative robust output regulation of minimum-phase linear uncertain multi-agent systems,” /International Journal of Robust and Nonlinear Control/, vol. 34, no. 11, pp. 7390-7405, Jul. 2024, DOI: 10.1002/rnc.7349.
 . J. Wu, *M. Lu**, F. Deng and J. Chen, "Robust output regulation of a class of minimum-phase linear uncertain systems by event-triggered control," /IEEE Transactions on Control of Network Systems/, vol. 11, no. 2, pp. 989-998, Jun. 2024, DOI: 10.1109/TCNS.2023.3330446.
@@ -34,8 +35,8 @@
 . *M. Lu* and J. Huang, "Robust output regulation problem for linear time-delay systems," /International Journal of Control/, vol. 88, no. 6, pp. 1236 – 1245, Jan. 2015, DOI: 10.1080/00207179.2014.1002111.
 
 == Conference Papers
-. Z. Bao, *M. Lu** and F. Deng, "Attitude Tracking Control of Uncertain Flexible Spacecraft Systems
-Subject to External Disturbances," in /Proceedings of the 2023 IFAC World Congress/, Yokohama, Japan, pp. 9239-9244.
+. L. Liu, *M. Lu**, F. Deng, L. Dou and J. Chen, "Distributed Nash Equilibrium Seeking with Communication Delays," in /Proceedings of the 2024 IEEE 18th International Conference on Control & Automation (ICCA)/, Reykjavík, Iceland, 2024, pp. 6-11, DOI: 10.1109/ICCA62789.2024.10591839. *(Best Paper Award)*
+. Z. Bao, *M. Lu** and F. Deng, "Attitude Tracking Control of Uncertain Flexible Spacecraft Systems Subject to External Disturbances," in /Proceedings of the 2023 IFAC World Congress/, Yokohama, Japan, pp. 9239-9244.
 . J. Wu, *M. Lu**, F. Deng and J. Chen, "Output Regulation of Nonlinear Systems by an Emulation-Based Approach," in /Proceedings of the 2023 American Control Conference/, San Diego, CA, USA, 2023, pp. 4779-4784. 
 . Y. Zhang, J. Wu, *M. Lu** and F. Deng, "Event-Triggered Practical Output Regulation of Linear Uncertain Systems Under Denial-of-Service Attacks," in /Proceedings of the 2023 42nd Chinese Control Conference/, Tianjin, China, 2023, pp. 1-6.
 . L. Zhang, *M. Lu**, F. Deng and J. Chen, "Distributed State Estimation of Linear Systems Under Uniformly Connected Switching Networks," in /Proceedings of the 2021 60th IEEE Conference on Decision and Control/, Austin, TX, USA, 2021, pp. 4008-4013.
