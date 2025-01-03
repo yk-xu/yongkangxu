@@ -1,0 +1,136 @@
+
+<!-- CSS样式 -->
+<style>
+  /* 为 masthead__menu-item--has-dropdown 添加更具体的选择器 */
+  .masthead__menu .masthead__menu-item--has-dropdown {
+    position: relative;
+  }
+
+  /* 下拉菜单 */
+  .masthead__menu .masthead__menu-item--has-dropdown .dropdown-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #f1f1f1;
+    min-width: 200px;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+  }
+
+  /* 当鼠标悬停时显示下拉菜单 */
+  .masthead__menu .masthead__menu-item--has-dropdown:hover .dropdown-menu {
+    display: block;
+  }
+
+  /* 下拉菜单项竖直排列，强制应用 */
+  .masthead__menu .masthead__menu-item--has-dropdown .dropdown-menu li {
+    display: block !important;
+    padding: 8px 16px;
+    font-size: 14px !important;
+    font-weight: normal !important;
+    border-bottom: 1px solid #ddd !important;
+    margin: 0 !important;
+    /* 确保没有外边距 */
+  }
+
+  /* 确保所有菜单项有一致的对齐方式 */
+  .masthead__menu .masthead__menu-item {
+    text-align: left !important;
+    /* 确保文本左对齐 */
+  }
+
+  /* 下拉菜单项链接 */
+  .masthead__menu .masthead__menu-item--has-dropdown .dropdown-menu li a {
+    font-weight: normal !important;
+    padding: 8px 16px;
+    /* 确保与其他菜单项一致 */
+    margin: 0;
+    /* 确保没有外边距 */
+    text-align: left;
+    /* 确保文本左对齐 */
+  }
+
+  /* 鼠标悬停时下拉菜单项高亮 */
+  .masthead__menu .masthead__menu-item--has-dropdown .dropdown-menu li a:hover {
+    background-color: #ddd;
+  }
+</style>
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <button>
+          <div class="navicon"></div>
+        </button>
+        <ul class="visible-links">
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a
+              href="#-about-me" data-level="1">Homepage</a></li>
+
+          <!-- 修改后的代码 -->
+          {% for link in site.data.navigation.main %}
+          {% if link.title == 'Publications' %}
+          <li class="masthead__menu-item masthead__menu-item--has-dropdown">
+            <a href="#-publications" data-level="1">{{ link.title }}</a>
+              <!-- 下拉菜单 -->
+              <ul class="dropdown-menu">
+                <li><a href="#-journal-papers" data-level="2">Journal Papers</a></li>
+                <li><a href="#-conference-papers" data-level="2">Conference Papers</a></li>
+                <li><a href="#-pending-patents-and-software" data-level="2">Pending Patents and Software</a></li>
+                <li><a href="#-thesis" data-level="2">Thesis</a></li>
+              </ul>
+          </li>
+          {% endif %}
+          {% if link.title == 'Awards' %}
+          <li class="masthead__menu-item masthead__menu-item--has-dropdown">
+            <a href="#-awards" data-level="1">{{ link.title }}</a>
+            <!-- 下拉菜单 -->
+            <ul class="dropdown-menu">
+              <li><a href="#-research-awards" data-level="2">Research Awards</a></li>
+              <li><a href="#-competition-awards" data-level="2">Competition Awards</a></li>
+            </ul>
+          </li>
+          {% endif %}
+          {% if link.title == 'Service' %}
+          <li class="masthead__menu-item masthead__menu-item--has-dropdown">
+            <a href="#-service" data-level="1">{{ link.title }}</a>
+            <!-- 下拉菜单 -->
+            <ul class="dropdown-menu">
+              <li><a href="#-research-projects-and-grants" data-level="2">Research Projects and Grants</a></li>
+              <li><a href="#-professional-activities" data-level="2">Professional Activities</a></li>
+              <li><a href="#-conference-presentations" data-level="2">Conference Presentations</a></li>
+            </ul>
+          </li>
+          {% endif %}
+          {% if link.title == 'Projects' %}
+          <li class="masthead__menu-item masthead__menu-item--has-dropdown">
+            <a href="#-projects" data-level="1">{{ link.title }}</a>
+              <!-- 下拉菜单 -->
+              <ul class="dropdown-menu">
+                <li><a href="#-demos-codes" data-level="2">Demos & Codes</a></li>
+
+              </ul>
+          </li>
+          {% endif %}
+          {% if link.title == 'Homepage' %}
+          <li class="masthead__menu-item"><a href="#-about-me" data-level="1">{{ link.title }}</a></li>
+          {% endif %}
+          <!-- {% if link.title == 'About Me' %}
+          <li class="masthead__menu-item"><a href="#-about-me" data-level="1">{{ link.title }}</a></li>
+          {% endif %} -->
+          {% if link.title == 'Teaching' %}
+          <li class="masthead__menu-item"><a href="#-teaching" data-level="1">{{ link.title }}</a></li>
+          {% endif %}
+          {% if link.title == 'Research Group' %}
+          <li class="masthead__menu-item"><a href="#-group" data-level="1">{{ link.title }}</a></li>
+          {% endif %}
+          {% endfor %}
+        </ul>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>

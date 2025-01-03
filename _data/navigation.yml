@@ -1,0 +1,58 @@
+# main links links
+main:
+
+  - title: "About Me"
+    url: "/#-about-me"
+    data-level: "1"  # 父项
+  - title: "Publications"
+    url: "/#-publications"
+    data-level: "1"  # 父项
+    submenus:
+      - title: "Journal Papers"
+        url: "/#-journal-papers"
+        data-level: "2"  # 子项
+      - title: "Conference Papers"
+        url: "/#-conference-papers"
+        data-level: "2"  # 子项
+      - title: "Pending Patents and Software"
+        url: "/#-pending-patents-and-software"
+        data-level: "2"  # 子项
+      - title: "Thesis"
+        url: "/#-thesis"
+        data-level: "2"  # 子项
+  - title: "Teaching"
+    url: "/#-teaching"
+    data-level: "1"  # 父项
+  - title: "Research Group"
+    url: "/#-group"
+    data-level: "1"  # 父项
+  - title: "Awards"
+    url: "/#-awards"
+    data-level: "1"  # 父项
+    submenus:
+      - title: "Research Awards"
+        url: "/#-research-awards"
+        data-level: "2"  # 子项
+      - title: "Competition Awards"
+        url: "/#-competition-awards"
+        data-level: "2"  # 子项
+  - title: "Service"
+    url: "/#-service"
+    data-level: "1"  # 父项
+    submenus:
+      - title: "Research Projects and Grants"
+        url: "/#-research-projects-and-grants"
+        data-level: "2"  # 子项
+      - title: "Professional Activities"
+        url: "/#-professional-activities"
+        data-level: "2"  # 子项
+      - title: "Conference Presentations"
+        url: "/#-conference-presentations"
+        data-level: "2"  # 子项
+  - title: "Projects"
+    url: "/#-projects"
+    data-level: "1"  # 父项
+    submenus:
+      - title: "Demos & Codes"
+        url: "/#-demos-codes"
+        data-level: "2"  # 子项

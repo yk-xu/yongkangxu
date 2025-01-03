@@ -1,0 +1,144 @@
+---
+---
+
+/*
+ *    Minimal Mistakes Jekyll Theme
+ *
+ *  - Michael Rose
+ *  - mademistakes.com
+ *  - https://twitter.com/mmistakes
+ *
+*/
+
+@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "variables";
+@import "mixins";
+@import "vendor/susy/susy";
+
+@import "reset";
+@import "base";
+
+@import "utilities";
+@import "animations";
+@import "tables";
+@import "buttons";
+@import "notices";
+@import "masthead";
+@import "navigation";
+@import "footer";
+@import "syntax";
+
+@import "forms";
+
+@import "page";
+@import "archive";
+@import "sidebar";
+
+@import "vendor/font-awesome/fontawesome";
+@import "vendor/font-awesome/solid";
+@import "vendor/font-awesome/brands";
+@import "vendor/magnific-popup/magnific-popup";
+@import "print";
+
+.paper-box {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-bottom: 1px #efefef solid;
+    padding: 2em 0 2em 0;
+    
+
+    .paper-box-image{
+        justify-content: center;
+        display: flex;
+        width: 100%;
+        order: 2;
+        img {
+            max-width: 400px;
+            box-shadow: 3px 3px 6px #888;
+            object-fit: cover;
+        }
+    }
+    
+    .paper-box-text{
+        max-width: 100%;
+        order: 1;
+    }
+    
+    .full-width-box  {
+        width: 100%; /* 确保容器宽度占满 */
+    }
+      
+    .full-width-box img {
+        width: 100%; /* 图片宽度占满 */
+        height: auto; /* 保持宽高比 */
+        display: block; /* 避免图片周围的内联元素间隙 */
+    }
+
+    @include breakpoint($medium) {
+        .paper-box-image{
+            justify-content: left;
+            min-width: 200px;
+            max-width: 40%;
+            order: 1;
+        }
+        
+        .paper-box-text{
+            justify-content: left;
+            padding-left: 2em;
+            max-width: 60%;
+            order: 2;
+        }
+
+    }
+
+
+}
+
+.anchor {
+    height: 40px;  /* 根据需要调整 */
+    margin-top: -40px;  /* 让锚点刚好位于标题上方 */
+  }
+
+/* 按钮样式 */
+.download-btn {
+    display: inline-block;
+    padding: 3px 7px;
+    font-size: 13px;
+    color: #fff;
+    background-color: #007bff;
+    text-decoration: none !important; /* 移除下划线 */
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    text-align: center;
+}
+
+.download-btn:hover {
+    background-color: #0056b3;
+}
+
+.badge {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    position: absolute;
+    margin-top: .5em;
+    margin-left: -.5em;
+    color: white;
+    background-color: #00369f;
+    font-size: .8em;
+}
+
+section {
+    display: none;
+    margin: -22px 0;
+    padding-top: 22px;
+
+}
+
+#-about-me {
+    display: block;
+}
