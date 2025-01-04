@@ -15,6 +15,8 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+
+<!-- Homepage -->
 <section id="-about-me" data-level="1">
 
   <p>Lu Maobin is a professor at the School of Automation, Beijing Institute of Technology, and a doctoral supervisor. He is a recipient of the Youth Program of the 16th batch of the "Overseas High-level Talent Introduction Program" in China. His research mainly focuses on output regulation of complex dynamic systems, distributed estimation, cooperative control and game theory, and unmanned system control. He has published more than ten first-author papers in top-tier journals in the field of systems and control, such as IEEE Transactions on Automatic Control (IEEE TAC) and Automatica. Currently, he is leading projects such as the National Key Technology R&D Program for Next-generation Artificial Intelligence, the General Program of the National Natural Science Foundation of China, and key projects funded by the Beijing Natural Science Foundation-Xiaomi Innovation Joint Fund.</p>
@@ -43,15 +45,13 @@ redirect_from:
 </section>
 
 
-
+<!-- Publications -->
 <section id="-publications" data-level="1">
 
 <h2> 📝 Publications </h2>
 
 <section id="-journal-papers" data-level="2">
 <h2>Journal Papers</h2>
-
-
 
 <ol>
 
@@ -257,6 +257,7 @@ redirect_from:
 </section>
 
 
+<!-- Teaching -->
 <section id='-teaching' data-level="1">
 
 <h1> 📖 Teaching </h1>
@@ -299,6 +300,8 @@ redirect_from:
 </section>
 
 
+
+<!-- Research Group -->
 <section id='-group' data-level="1">
 
 <h1> 💬 Research Group </h1>
@@ -399,6 +402,9 @@ redirect_from:
 <div class='paper-box'><div class='full-width-box'><div><img src='images/合照.jpg' alt="sym" width="100%"></div></div></div>
 </section>
 
+
+
+<!-- Awards -->
 <section id="-awards" data-level="1">
 
 <h1> 🎖 Awards </h1>
@@ -467,6 +473,7 @@ Z. Bao, **M. Lu**, F. Deng
 </section>
 
 
+<!-- Service -->
 <section id='-service' data-level="1">
 
 <h1> 💻 Service </h1>
