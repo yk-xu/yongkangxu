@@ -579,7 +579,7 @@ Z. Bao, **M. Lu**, F. Deng
 <section id='-demos-codes' data-level="2">
 <h2>Demos & Codes</h2>
 
-<h3>Robust distributed nash equilibrium seeking subject to communication constraints</h3>
+<!-- <h3>Robust distributed nash equilibrium seeking subject to communication constraints</h3> -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAC 2024</div><img src='images/1-450_300.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
