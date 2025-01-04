@@ -123,32 +123,12 @@ redirect_from:
 <section id="-conference-papers" data-level="2">
 <h2>Conference Papers</h2>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCA 2024(Best Paper Award)</div><img src='images/6-450_300.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Distributed Nash Equilibrium Seeking with Communication Delays](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FICCA62789.2024.10591839&btnG=)
-
-L. Liu, **M. Lu**, S. Wang, F. Deng, L. Dou and J. Chen
-
-- This paper addresses the problem of distributed Nash equilibrium seeking in N-player games for single inte-grator dynamics subject to strongly connected networks and communication delays. We propose a distributed estimator for each player, enabling them to estimate the actions of all players. Next, we design a distributed Nash equilibrium seeking law using the gradient play technique. Then, we analyze the stability of the closed-loop system. By means of designing the Lyapunov-Krasovskii functional, we demonstrate that Nash equilibrium seeking is achieved at an exponential rate, even in the presence of unknown and bounded communication delays. Finally, we provide a simulation example to illustrate the effectiveness of our proposed approach.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">YAC 2023(Best Theoretical Paper Award)</div><img src='images/7-450_300.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Leader-Following Attitude Synchronization of Multiple Flexible Spacecraft Systems Subject to External Disturbance](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Leader-Following+Attitude+Synchronization+of+Multiple+Flexible+Spacecraft+Systems+Subject+to+External+Disturbance&btnG=)
-
-Z. Bao, **M. Lu**, F. Deng
-
-- This paper investigates the leader-following attitude synchronization problem of multiple flexible spacecraft systems under external disturbances. Compared with existing works, the external disturbance with unbounded energy is compensated.Given that the leader system's state can be conveyed to each follower, we develop a distributed observer for the leader system. Finally, we develop a distributed control law to solve the problem. The effectiveness and robustness of the control law are illustrated by some numerical simulations.
-
-</div>
-</div>
-
 <ol>
 
+<li><p>L. Liu, <b>M. Lu</b>, S. Wang, F. Deng, L. Dou and J. Chen, &ldquo;Distributed Nash Equilibrium Seeking with Communication Delays,&rdquo; in <i>Proceedings of the 2024 IEEE 18th International Conference on Control & Automation</i>, Reykjavík, Iceland, pp. 6-11, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FICCA62789.2024.10591839&btnG=">DOI:10.1109/ICCA62789.2024.10591839</a>.</p>
+</li>
+<li><p>Z. Bao, <b>M. Lu</b>* and F. Deng, &ldquo;Leader-Following Attitude Synchronization of Multiple Flexible Spacecraft Systems Subject to External Disturbance,&rdquo; in <i>Proceedings of the 2023 Youth Academic Annual Conference of Chinese Association of Automation</i>, Hefei, China, pp. 1175-1180, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Leader-Following+Attitude+Synchronization+of+Multiple+Flexible+Spacecraft+Systems+Subject+to+External+Disturbance&btnG=">DOI:10.1109/YAC59482.2023.10401360</a>.</p>
+</li>
 <li><p>Z. Bao, <b>M. Lu</b>* and F. Deng, &ldquo;Attitude Tracking Control of Uncertain Flexible Spacecraft Systems Subject to External Disturbances,&rdquo; in <i>Proceedings of the 2023 IFAC World Congress</i>, Yokohama, Japan, pp. 9239-9244, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1016%2Fj.ifacol.2023.10.005&btnG=">DOI:10.1016/j.ifacol.2023.10.005</a>.</p>
 </li>
 <li><p>J. Wu, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Output Regulation of Nonlinear Systems by an Emulation-Based Approach,&rdquo; in <i>Proceedings of the 2023 American Control Conference</i>, San Diego, CA, USA, 2023, pp. 4779-4784, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.23919%2FACC55779.2023.10156239&btnG=">DOI:10.23919/ACC55779.2023.10156239</a>.</p>
@@ -461,54 +441,20 @@ Z. Bao, **M. Lu**, F. Deng
 
 <h2>Competition Awards</h2>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/“新长江杯”2024智能无人系统挑战赛-飞行避障冠军.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-"New Yangtze River Cup" 2024 Intelligent Unmanned Systems Challenge - Flight Obstacle Avoidance Champion
-
-Team Members: J. Cai, W. Kong, Y. Bao, H. Li, Y. Liu and Q. Wang
-
-Advisor: **M. Lu**, C. Wang and F. Deng
-
-<a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a>
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/“新长江杯”2024智能无人系统挑战赛-空地协同冠军.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-"New Yangtze River Cup" 2024 Intelligent Unmanned Systems Challenge - Air-Ground Coordination Champion
-
-Team Members: Y. Lin, Z. Du, Y. Lu, Y. Bao, F. Wang and Q. Wang
-
-Advisor: **M. Lu**, C. Chen and F. Deng
-
-<a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a>
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/挑战杯黑科技专项赛冠军.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-2023 "Challenge Cup" Capital University Students' Extracurricular Academic and Scientific Works Provincial Competition Champion
-
-Team Members: B. Xie, G. Liu, J. Dong, G. Sun and X. Yang
-
-Advisor: **M. Lu**
-
-<a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E9%BB%91%E7%A7%91%E6%8A%80%E6%8F%90%E4%BA%A4%E8%A7%86%E9%A2%91.mp4" class="download-btn" download>Video</a>
-
-</div>
-</div>
-
-
 <ul>
-  <li><p>"Zhaoying Cup" 2023 Intelligent Unmanned Systems Challenge - Flight Obstacle Avoidance Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E7%85%A7%E8%90%A4%E6%9D%AF%E2%80%9D2023%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a> </p>
+  <li><p>2024 Intelligent Unmanned Systems Challenge - Flight Obstacle Avoidance Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a> </p>
   </li>
 
-  <li><p>"Zhaoying Cup" 2023 Intelligent Unmanned Systems Challenge - Air-Ground Coordination Runner-up  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E7%85%A7%E8%90%A4%E6%9D%AF%E2%80%9D2023%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E4%BA%9A%E5%86%9B.mp4" class="download-btn" download>Video</a> </p>
+  <li><p>2024 Intelligent Unmanned Systems Challenge - Air-Ground Coordination Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a> </p>
+  </li>
+
+  <li><p>2023 "Challenge Cup" Capital University Students' Extracurricular Academic and Scientific Works Provincial Competition Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E9%BB%91%E7%A7%91%E6%8A%80%E6%8F%90%E4%BA%A4%E8%A7%86%E9%A2%91.mp4" class="download-btn" download>Video</a> </p>
+  </li>
+
+  <li><p>2023 Intelligent Unmanned Systems Challenge - Flight Obstacle Avoidance Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E7%85%A7%E8%90%A4%E6%9D%AF%E2%80%9D2023%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a> </p>
+  </li>
+
+  <li><p>2023 Intelligent Unmanned Systems Challenge - Air-Ground Coordination Runner-up  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E7%85%A7%E8%90%A4%E6%9D%AF%E2%80%9D2023%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E4%BA%9A%E5%86%9B.mp4" class="download-btn" download>Video</a> </p>
   </li>
 
   <li><p>ROBOMASTER Planning and Control Special Competition Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/ROBOMASTER%E8%A7%84%E5%88%92%E6%8E%A7%E5%88%B6%E4%B8%93%E9%A1%B9%E8%B5%9B%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a> </p>
@@ -651,6 +597,73 @@ X. He, **M. Lu** |
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCA 2024(Best Paper Award)</div><img src='images/6-450_300.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Distributed Nash Equilibrium Seeking with Communication Delays](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FICCA62789.2024.10591839&btnG=)
+
+L. Liu, **M. Lu**, S. Wang, F. Deng, L. Dou and J. Chen
+
+- This paper addresses the problem of distributed Nash equilibrium seeking in N-player games for single inte-grator dynamics subject to strongly connected networks and communication delays. We propose a distributed estimator for each player, enabling them to estimate the actions of all players. Next, we design a distributed Nash equilibrium seeking law using the gradient play technique. Then, we analyze the stability of the closed-loop system. By means of designing the Lyapunov-Krasovskii functional, we demonstrate that Nash equilibrium seeking is achieved at an exponential rate, even in the presence of unknown and bounded communication delays. Finally, we provide a simulation example to illustrate the effectiveness of our proposed approach.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">YAC 2023(Best Theoretical Paper Award)</div><img src='images/7-450_300.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Leader-Following Attitude Synchronization of Multiple Flexible Spacecraft Systems Subject to External Disturbance](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Leader-Following+Attitude+Synchronization+of+Multiple+Flexible+Spacecraft+Systems+Subject+to+External+Disturbance&btnG=)
+
+Z. Bao, **M. Lu**, F. Deng
+
+- This paper investigates the leader-following attitude synchronization problem of multiple flexible spacecraft systems under external disturbances. Compared with existing works, the external disturbance with unbounded energy is compensated.Given that the leader system's state can be conveyed to each follower, we develop a distributed observer for the leader system. Finally, we develop a distributed control law to solve the problem. The effectiveness and robustness of the control law are illustrated by some numerical simulations.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/“新长江杯”2024智能无人系统挑战赛-飞行避障冠军.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+"New Yangtze River Cup" 2024 Intelligent Unmanned Systems Challenge - Flight Obstacle Avoidance Champion
+
+Team Members: J. Cai, W. Kong, Y. Bao, H. Li, Y. Liu and Q. Wang
+
+Advisor: **M. Lu**, C. Wang and F. Deng
+
+<a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/“新长江杯”2024智能无人系统挑战赛-空地协同冠军.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+"New Yangtze River Cup" 2024 Intelligent Unmanned Systems Challenge - Air-Ground Coordination Champion
+
+Team Members: Y. Lin, Z. Du, Y. Lu, Y. Bao, F. Wang and Q. Wang
+
+Advisor: **M. Lu**, C. Chen and F. Deng
+
+<a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/挑战杯黑科技专项赛冠军.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+2023 "Challenge Cup" Capital University Students' Extracurricular Academic and Scientific Works Provincial Competition Champion
+
+Team Members: B. Xie, G. Liu, J. Dong, G. Sun and X. Yang
+
+Advisor: **M. Lu**
+
+<a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E9%BB%91%E7%A7%91%E6%8A%80%E6%8F%90%E4%BA%A4%E8%A7%86%E9%A2%91.mp4" class="download-btn" download>Video</a>
+
+</div>
+</div>
+
 
 </section>
 </section>
