@@ -579,95 +579,109 @@ Z. Bao, **M. Lu**, F. Deng
 <section id='-demos-codes' data-level="2">
 <h2>Demos & Codes</h2>
 
-<!-- <h3>Robust distributed nash equilibrium seeking subject to communication constraints</h3> -->
+<h4>Robust distributed nash equilibrium seeking subject to communication constraints</h4>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAC 2024</div><img src='images/1-450_300.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Robust distributed nash equilibrium seeking subject to communication constraints](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2024.3476195&oq=)
+<!-- [Robust distributed nash equilibrium seeking subject to communication constraints](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2024.3476195&oq=) -->
+This paper addresses the robust distributed Nash equilibrium seeking problem of N -player games under switching networks and communication delays. The salient feature of this work is that the switching communication networks can be uniformly strongly connected, and the communication delays are allowed to be arbitrarily unknown, time-varying and bounded. We illustrate our proposed approach by its application to practical motion control of mobile robots with some experiments. 
 
-L. Liu, **M. Lu**, S. Wang, F. Deng and J. Chen | 
-<a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/Mobile_robots_experiment_for_a_connectivity_control_game.mp4" class="download-btn" download>Video</a>
+Authors： L. Liu, **M. Lu**, S. Wang, F. Deng and J. Chen
 
-- This paper addresses the robust distributed Nash equilibrium seeking problem of N -player games under switching networks and communication delays. The salient feature of this work is that the switching communication networks can be uniformly strongly connected, and the communication delays are allowed to be arbitrarily unknown, time-varying and bounded. We illustrate our proposed approach by its application to practical motion control of mobile robots with some experiments. 
+**Videos**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/Mobile_robots_experiment_for_a_connectivity_control_game.mp4" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a>
+ 
+
 
 </div>
 </div>
 
+<h4>Output feedback control of uncertain Euler–Lagrange systems by internal model</h4>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automatica 2023</div><img src='images/3-450_300.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Output feedback control of uncertain Euler–Lagrange systems by internal model](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1016%2Fj.automatica.2023.111189&btnG=)
+<!-- [Output feedback control of uncertain Euler–Lagrange systems by internal model](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1016%2Fj.automatica.2023.111189&btnG=) -->
 
-X. He, **M. Lu** | 
-<a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/ROS_sim.mp4" class="download-btn" download>Video</a>
+In this paper, we investigate the trajectory tracking control problem of a class of uncertain Euler–Lagrange systems subject to disturbances. We propose a class of dynamic output feedback control laws which depends on the tracking error of the position and that of the velocity. Specifically, by characterizing the reference trajectory and the disturbances with an exosystem, we design an internal model to learn the desired feedforward input such that the reference trajectory can be tracked in spite of unknown system parameters and disturbances. The effectiveness of the proposed approach is illustrated by its application to trajectory tracking control of a three-link cylindrical robot arm. 
 
-- In this paper, we investigate the trajectory tracking control problem of a class of uncertain Euler–Lagrange systems subject to disturbances. We propose a class of dynamic output feedback control laws which depends on the tracking error of the position and that of the velocity. Specifically, by characterizing the reference trajectory and the disturbances with an exosystem, we design an internal model to learn the desired feedforward input such that the reference trajectory can be tracked in spite of unknown system parameters and disturbances. The effectiveness of the proposed approach is illustrated by its application to trajectory tracking control of a three-link cylindrical robot arm. 
+Authors： X. He, **M. Lu**
+
+**Videos**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/ROS_sim.mp4" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a>
+ 
 
 </div>
 </div>
 
+<!-- <h4>Distributed Nash Equilibrium Seeking with Communication Delays</h4>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCA 2024(Best Paper Award)</div><img src='images/6-450_300.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1"> -->
 
-[Distributed Nash Equilibrium Seeking with Communication Delays](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FICCA62789.2024.10591839&btnG=)
+<!-- [Distributed Nash Equilibrium Seeking with Communication Delays](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FICCA62789.2024.10591839&btnG=) -->
 
-L. Liu, **M. Lu**, S. Wang, F. Deng, L. Dou and J. Chen
+<!-- This paper addresses the problem of distributed Nash equilibrium seeking in N-player games for single inte-grator dynamics subject to strongly connected networks and communication delays. We propose a distributed estimator for each player, enabling them to estimate the actions of all players. Next, we design a distributed Nash equilibrium seeking law using the gradient play technique. Then, we analyze the stability of the closed-loop system. By means of designing the Lyapunov-Krasovskii functional, we demonstrate that Nash equilibrium seeking is achieved at an exponential rate, even in the presence of unknown and bounded communication delays. Finally, we provide a simulation example to illustrate the effectiveness of our proposed approach.
 
-- This paper addresses the problem of distributed Nash equilibrium seeking in N-player games for single inte-grator dynamics subject to strongly connected networks and communication delays. We propose a distributed estimator for each player, enabling them to estimate the actions of all players. Next, we design a distributed Nash equilibrium seeking law using the gradient play technique. Then, we analyze the stability of the closed-loop system. By means of designing the Lyapunov-Krasovskii functional, we demonstrate that Nash equilibrium seeking is achieved at an exponential rate, even in the presence of unknown and bounded communication delays. Finally, we provide a simulation example to illustrate the effectiveness of our proposed approach.
+Authors： L. Liu, **M. Lu**, S. Wang, F. Deng, L. Dou and J. Chen -->
 
+<!-- **Videos**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/ROS_sim.mp4" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a> -->
+
+<!-- </div>
 </div>
-</div>
 
+<h4>Leader-Following Attitude Synchronization of Multiple Flexible Spacecraft Systems Subject to External Disturbance</h4>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">YAC 2023(Best Theoretical Paper Award)</div><img src='images/7-450_300.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
+
+<!-- [Leader-Following Attitude Synchronization of Multiple Flexible Spacecraft Systems Subject to External Disturbance](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Leader-Following+Attitude+Synchronization+of+Multiple+Flexible+Spacecraft+Systems+Subject+to+External+Disturbance&btnG=) -->
+
+<!-- This paper investigates the leader-following attitude synchronization problem of multiple flexible spacecraft systems under external disturbances. Compared with existing works, the external disturbance with unbounded energy is compensated.Given that the leader system's state can be conveyed to each follower, we develop a distributed observer for the leader system. Finally, we develop a distributed control law to solve the problem. The effectiveness and robustness of the control law are illustrated by some numerical simulations.
+
+Authors： Z. Bao, **M. Lu**, F. Deng -->
+
+<!-- **Videos**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/ROS_sim.mp4" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a> -->
+<!-- 
+</div>
+</div> -->
+
+<h4>2024 Intelligent Unmanned Systems Challenge - Flight Obstacle Avoidance Champion</h4>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">National First Prize</div><img src='images/“新长江杯”2024智能无人系统挑战赛-飞行避障冠军.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Leader-Following Attitude Synchronization of Multiple Flexible Spacecraft Systems Subject to External Disturbance](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Leader-Following+Attitude+Synchronization+of+Multiple+Flexible+Spacecraft+Systems+Subject+to+External+Disturbance&btnG=)
-
-Z. Bao, **M. Lu**, F. Deng
-
-- This paper investigates the leader-following attitude synchronization problem of multiple flexible spacecraft systems under external disturbances. Compared with existing works, the external disturbance with unbounded energy is compensated.Given that the leader system's state can be conveyed to each follower, we develop a distributed observer for the leader system. Finally, we develop a distributed control law to solve the problem. The effectiveness and robustness of the control law are illustrated by some numerical simulations.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/“新长江杯”2024智能无人系统挑战赛-飞行避障冠军.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-"New Yangtze River Cup" 2024 Intelligent Unmanned Systems Challenge - Flight Obstacle Avoidance Champion
+This paper addresses the robust distributed Nash equilibrium seeking problem of N -player games under switching networks and communication delays. The salient feature of this work is that the switching communication networks can be uniformly strongly connected, and the communication delays are allowed to be arbitrarily unknown, time-varying and bounded. We illustrate our proposed approach by its application to practical motion control of mobile robots with some experiments. 
 
 Team Members: J. Cai, W. Kong, Y. Bao, H. Li, Y. Liu and Q. Wang
 
 Advisor: **M. Lu**, C. Wang and F. Deng
 
-<a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a>
+**Videos**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a>
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/“新长江杯”2024智能无人系统挑战赛-空地协同冠军.jpg' alt="sym" width="100%"></div></div>
+<h4>2024 Intelligent Unmanned Systems Challenge - Air-Ground Coordination Champion</h4>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">National First Prize</div><img src='images/“新长江杯”2024智能无人系统挑战赛-空地协同冠军.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-"New Yangtze River Cup" 2024 Intelligent Unmanned Systems Challenge - Air-Ground Coordination Champion
+This paper addresses the robust distributed Nash equilibrium seeking problem of N -player games under switching networks and communication delays. The salient feature of this work is that the switching communication networks can be uniformly strongly connected, and the communication delays are allowed to be arbitrarily unknown, time-varying and bounded. We illustrate our proposed approach by its application to practical motion control of mobile robots with some experiments. 
 
 Team Members: Y. Lin, Z. Du, Y. Lu, Y. Bao, F. Wang and Q. Wang
 
 Advisor: **M. Lu**, C. Chen and F. Deng
 
-<a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a>
+**Videos**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E5%86%A0%E5%86%9B.mp4" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a>
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/挑战杯黑科技专项赛冠军.jpg' alt="sym" width="100%"></div></div>
+<h4>2023 "Challenge Cup" Capital University Students' Extracurricular Academic and Scientific Works Provincial Competition Champion</h4>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Provincial Grand Prize</div><img src='images/挑战杯黑科技专项赛冠军.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-2023 "Challenge Cup" Capital University Students' Extracurricular Academic and Scientific Works Provincial Competition Champion
+This paper addresses the robust distributed Nash equilibrium seeking problem of N -player games under switching networks and communication delays. The salient feature of this work is that the switching communication networks can be uniformly strongly connected, and the communication delays are allowed to be arbitrarily unknown, time-varying and bounded. We illustrate our proposed approach by its application to practical motion control of mobile robots with some experiments. 
 
 Team Members: B. Xie, G. Liu, J. Dong, G. Sun and X. Yang
 
 Advisor: **M. Lu**
 
-<a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E9%BB%91%E7%A7%91%E6%8A%80%E6%8F%90%E4%BA%A4%E8%A7%86%E9%A2%91.mp4" class="download-btn" download>Video</a>
+**Videos**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E9%BB%91%E7%A7%91%E6%8A%80%E6%8F%90%E4%BA%A4%E8%A7%86%E9%A2%91.mp4" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a>
 
 </div>
 </div>

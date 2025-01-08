@@ -411,3 +411,13 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+.gold-link {
+  color: gold; /* 或使用 #FFD700 */
+  text-decoration: none; /* 去掉下划线（可选） */
+}
+
+.gold-link:hover {
+  text-decoration: underline; /* 鼠标悬停时显示下划线（可选） */
+}
+
