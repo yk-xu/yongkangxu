@@ -645,7 +645,7 @@ Authors： Z. Bao, **M. Lu**, F. Deng -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">National First Prize</div><img src='images/“新长江杯”2024智能无人系统挑战赛-飞行避障冠军.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-This paper addresses the robust distributed Nash equilibrium seeking problem of N -player games under switching networks and communication delays. The salient feature of this work is that the switching communication networks can be uniformly strongly connected, and the communication delays are allowed to be arbitrarily unknown, time-varying and bounded. We illustrate our proposed approach by its application to practical motion control of mobile robots with some experiments. 
+Design a drone capable of fully autonomously completing five obstacle-avoidance tasks in a designated area: navigating through trees, passing through a tunnel, traversing a maze, flying through fixed hoops, and flying through moving hoops. During the flight, tasks must be completed in strict sequential order, but each team can choose how many tasks to execute based on their capabilities.
 
 Team Members: J. Cai, W. Kong, Y. Bao, H. Li, Y. Liu and Q. Wang
 
@@ -660,7 +660,7 @@ Advisor: **M. Lu**, C. Wang and F. Deng
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">National First Prize</div><img src='images/“新长江杯”2024智能无人系统挑战赛-空地协同冠军.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-This paper addresses the robust distributed Nash equilibrium seeking problem of N -player games under switching networks and communication delays. The salient feature of this work is that the switching communication networks can be uniformly strongly connected, and the communication delays are allowed to be arbitrarily unknown, time-varying and bounded. We illustrate our proposed approach by its application to practical motion control of mobile robots with some experiments. 
+Using a ground unmanned vehicle and a rotary-wing drone will compete in a maze enclosed by barriers. Teams must remotely control or autonomously drive the unmanned vehicle to complete a rescue mission while avoiding hazardous areas. The drone assists the vehicle by performing overhead reconnaissance, communication, and guidance. Upon completing the mission, the unmanned vehicle and drone must park in their designated parking space and helipad, respectively. 
 
 Team Members: Y. Lin, Z. Du, Y. Lu, Y. Bao, F. Wang and Q. Wang
 
@@ -675,7 +675,7 @@ Advisor: **M. Lu**, C. Chen and F. Deng
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Provincial Grand Prize</div><img src='images/挑战杯黑科技专项赛冠军.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-This paper addresses the robust distributed Nash equilibrium seeking problem of N -player games under switching networks and communication delays. The salient feature of this work is that the switching communication networks can be uniformly strongly connected, and the communication delays are allowed to be arbitrarily unknown, time-varying and bounded. We illustrate our proposed approach by its application to practical motion control of mobile robots with some experiments. 
+To address the design problem of modular and flexible reconfiguration in robotic systems, a robot system capable of modular and flexible reconfiguration was designed across three levels: robotic mechanical structure, robotic circuit connections, and robotic communication system. 
 
 Team Members: B. Xie, G. Liu, J. Dong, G. Sun and X. Yang
 
