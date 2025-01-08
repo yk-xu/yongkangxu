@@ -55,6 +55,10 @@ redirect_from:
 
 <ol>
 
+<li><p>Zhang L, Guay M, <b>M. Lu</b>* and S. Wang, &ldquo;Distributed state estimation for discrete-time uncertain linear systems over jointly connected switching networks,&rdquo; <i>Automatica</i>, vol. 173, Mar. 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=DOI%3A+10.1016%2Fj.automatica.2024.112079&btnG=">DOI: 10.1016/j.automatica.2024.112079</a>.</p>
+</li>
+<li><p>J. Wu, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;An emulation approach to semi-global robust output regulation for a class of nonlinear uncertain systems,&rdquo; <i>Acta Automatica Sinica</i>, 2024, DOI: 10.1109/JAS.2024.125085.</p>
+</li>
 <li><p>L. Liu, <b>M. Lu</b>*, S. Wang, F. Deng and J. Chen, &ldquo;Robust distributed nash equilibrium seeking subject to communication constraints,&rdquo; <i>IEEE Transactions on Automatic Control</i>, Early Access, Oct. 2024, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2024.3476195&oq=">DOI: 10.1109/TAC.2024.3476195</a>.<b>(Best Paper Award)</b></p>
 </li>
 <li><p>Z. Bao, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Attitude tracking of uncertain flexible spacecraft systems subject to unknown external disturbances,&rdquo; <i>arXiv e-prints 2024</i>, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=+DOI%3A10.48550%2FarXiv.2403.12542&btnG=">DOI:10.48550/arXiv.2403.12542</a>.<b>(Best Theoretical Paper Award)</b></p>
@@ -580,7 +584,7 @@ Z. Bao, **M. Lu**, F. Deng
 <h2>Demos & Codes</h2>
 
 <h4>Robust distributed nash equilibrium seeking subject to communication constraints</h4>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAC 2024</div><img src='images/1-450_300.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAC 2024</div><img src='images/gif/1-450_300.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <!-- [Robust distributed nash equilibrium seeking subject to communication constraints](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2024.3476195&oq=) -->
@@ -589,14 +593,12 @@ This paper addresses the robust distributed Nash equilibrium seeking problem of 
 Authors： L. Liu, **M. Lu**, S. Wang, F. Deng and J. Chen
 
 **Videos**: <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/Mobile_robots_experiment_for_a_connectivity_control_game.mp4" class="gold-link">bilibili<img src="images/bilibili.png" alt="icon" class="icon"></a>
- 
-
 
 </div>
 </div>
 
 <h4>Output feedback control of uncertain Euler–Lagrange systems by internal model</h4>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automatica 2023</div><img src='images/3-450_300.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automatica 2023</div><img src='images/gif/2-450_300.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <!-- [Output feedback control of uncertain Euler–Lagrange systems by internal model](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1016%2Fj.automatica.2023.111189&btnG=) -->
@@ -642,7 +644,7 @@ Authors： Z. Bao, **M. Lu**, F. Deng -->
 </div> -->
 
 <h4>2024 Intelligent Unmanned Systems Challenge - Flight Obstacle Avoidance Champion</h4>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">National First Prize</div><img src='images/“新长江杯”2024智能无人系统挑战赛-飞行避障冠军.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">National First Prize</div><img src='images/gif/3-450_300.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Design a drone capable of fully autonomously completing five obstacle-avoidance tasks in a designated area: navigating through trees, passing through a tunnel, traversing a maze, flying through fixed hoops, and flying through moving hoops. During the flight, tasks must be completed in strict sequential order, but each team can choose how many tasks to execute based on their capabilities.
@@ -657,7 +659,7 @@ Advisor: **M. Lu**, C. Wang and F. Deng
 </div>
 
 <h4>2024 Intelligent Unmanned Systems Challenge - Air-Ground Coordination Champion</h4>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">National First Prize</div><img src='images/“新长江杯”2024智能无人系统挑战赛-空地协同冠军.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">National First Prize</div><img src='images/gif/4-450_300.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Using a ground unmanned vehicle and a rotary-wing drone will compete in a maze enclosed by barriers. Teams must remotely control or autonomously drive the unmanned vehicle to complete a rescue mission while avoiding hazardous areas. The drone assists the vehicle by performing overhead reconnaissance, communication, and guidance. Upon completing the mission, the unmanned vehicle and drone must park in their designated parking space and helipad, respectively. 
@@ -672,7 +674,7 @@ Advisor: **M. Lu**, C. Chen and F. Deng
 </div>
 
 <h4>2023 "Challenge Cup" Capital University Students' Extracurricular Academic and Scientific Works Provincial Competition Champion</h4>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Provincial Grand Prize</div><img src='images/挑战杯黑科技专项赛冠军.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Provincial Grand Prize</div><img src='images/gif/黑科技.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 To address the design problem of modular and flexible reconfiguration in robotic systems, a robot system capable of modular and flexible reconfiguration was designed across three levels: robotic mechanical structure, robotic circuit connections, and robotic communication system. 
