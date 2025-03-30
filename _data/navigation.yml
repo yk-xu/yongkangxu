@@ -1,4 +1,4 @@
-# main links links
+# main links links 1
 main:
 
   - title: "About Me"
@@ -28,7 +28,7 @@ main:
     data-level: "1"  # 父项
   - title: "Awards"
     url: "/#-awards"
-    data-level: "1"  #  父项
+    data-level: "1"  # 父项
     submenus:
       - title: "Research Awards"
         url: "/#-research-awards"
