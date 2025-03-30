@@ -54,71 +54,29 @@ redirect_from:
 
 <ol>
 
-<li><p>Zhang L, Guay M, <b>M. Lu</b>* and S. Wang, &ldquo;Distributed state estimation for discrete-time uncertain linear systems over jointly connected switching networks,&rdquo; <i>Automatica</i>, vol. 173, Mar. 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=DOI%3A+10.1016%2Fj.automatica.2024.112079&btnG=">DOI: 10.1016/j.automatica.2024.112079</a>.</p>
+<li><p>J. Xue, Z. Chen, S. Wang and <b>Y. Xu</b>*, &ldquo;Roll Torque Vibration Isolation Control on Parallel Active Suspension System via Impedance-based MPC for Vehicular Terminal,&rdquo; </i>IEEE Transactions on Automation Science and Engineering<i>, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FTASE.2025.3539596&btnG=">DOI:10.1109/TASE.2025.3539596 ( Early Access )</a>.</p>
+
+<li><p>J. Xue, Z. Chen, S. Wang and <b>Y. Xu</b>*, &ldquo;Roll Torque Vibration Isolation Control on Parallel Active Suspension System via Impedance-based MPC for Vehicular Terminal,&rdquo; </i>IEEE Transactions on Automation Science and Engineering<i>, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FTASE.2025.3539596&btnG=">DOI:10.1109/TASE.2025.3539596( Early Access )</a>.</p> 
+
+
+<li><p>Z. Chen, J. Huang, S. Wang, J. Wang and <b>Y. Xu</b>*, &ldquo;Whole-body stability control of foot walking for wheel-legged robot on unstructured terrain,&rdquo; </i>Robotic Intelligence and Automation<i>, Vol. 157, pp. 496-509, Feb, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1108%2FRIA-10-2024-0209&btnG=">DOI:10.1108/RIA-10-2024-0209</a>.</p> ( Early Access )
 </li>
-<li><p>J. Wu, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;An emulation approach to semi-global robust output regulation for a class of nonlinear uncertain systems,&rdquo; <i>Acta Automatica Sinica</i>, 2024, DOI: 10.1109/JAS.2024.125085.</p>
+
+<li><p>C. Deng, S. Wang, J. Wang, <b>Y. Xu</b>* and Z Chen, &ldquo;Lidar depth cluster active detection and localization for a uav with partial information loss in gnss,&rdquo; </i>Unmanned Systems<i>, Vol. 13, Np. 02 pp. 491-503, Mar. 30, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1142%2FS2301385025500293&btnG=">DOI:10.1142/S2301385025500293</a>.</p>
 </li>
-<li><p>L. Liu, <b>M. Lu</b>*, S. Wang, F. Deng and J. Chen, &ldquo;Robust distributed nash equilibrium seeking subject to communication constraints,&rdquo; <i>IEEE Transactions on Automatic Control</i>, Early Access, Oct. 2024, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2024.3476195&oq=">DOI: 10.1109/TAC.2024.3476195</a>.<b>(Best Paper Award)</b></p>
+
+<li><p>J Si, B Li, <b>Y. Xu</b>, L Wang, C Deng, J Wang, S Wang, &ldquo;Recover a moving rotor UAV without ground–air communications: System and control of a dual-stage tracking device,&rdquo; </i>ISA transactions<i>, Vol. 157, pp. 496-509, Feb, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1016%2Fj.isatra.2024.12.022&btnG=">DOI:10.1016/j.isatra.2024.12.022</a>.</p>
 </li>
-<li><p>Z. Bao, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Attitude tracking of uncertain flexible spacecraft systems subject to unknown external disturbances,&rdquo; <i>arXiv e-prints 2024</i>, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=+DOI%3A10.48550%2FarXiv.2403.12542&btnG=">DOI:10.48550/arXiv.2403.12542</a>.<b>(Best Theoretical Paper Award)</b></p>
+
+<li><p>J Si, B Li, <b>Y. Xu</b>, L Wang, C Deng, J Wang, S Wang, &ldquo;Recover a moving rotor UAV without ground–air communications: System and control of a dual-stage tracking device,&rdquo; </i>Mechatronics</i>, Vol. 104, pp. 103235, Dec. 05, 2024, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1016%2Fj.mechatronics.2024.103235&btnG=">DOI:10.1016/j.mechatronics.2024.103235</a>.</p>
 </li>
-<li><p>L. Zhang, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Distributed state estimation under jointly connected switching networks: Continuous-time linear systems and discrete-time linear systems,&rdquo; <i>IEEE Transactions on Automatic Control</i>, vol. 69, no. 2, pp. 1104-1111, Feb. 2024, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A10.1109%2FTAC.2023.3279210&btnG=">DOI:10.1109/TAC.2023.3279210</a>.</p>
+
+<li><p>B. Li, S. Wang, J. Si, <b>Y. Xu</b>, L. Wang, C. Deng, J Wang and Z. Liu, &ldquo;A dynamic target tracking framework of UGV for UAV recovery under random disturbances,&rdquo; <i>Industrial Robot</i>, Vol. 51 No. 5, pp. 729-746, Sep. 13, 2024, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1108%2FIR-01-2024-0004&btnG=">DOI:10.1108/IR-01-2024-0004</a>.</p>
 </li>
-<li><p>J. Wu, <b>M. Lu</b>*, F. Deng and J. Chen, “Event-triggered cooperative robust output regulation of minimum-phase linear uncertain multi-agent systems,” <i>International Journal of Robust and Nonlinear Control</i>, vol. 34, no. 11, pp. 7390-7405, Jul. 2024, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1002%2Frnc.7349&btnG=">DOI:10.1002/rnc.7349</a>.</p>
+
+<li><p><b>Y. Xu</b>, Z. Chen, C. Deng, S. Wang and J. Wang, &ldquo;LCDL: Toward Dynamic Localization for Autonomous Landing of Unmanned Aerial Vehicle Based on LiDAR–Camera Fusion,&rdquo; <i>IEEE Sensors Journal</i>, vol. 24, no. 16, pp. 26407-26415, Aug.15, 2024, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FJSEN.2024.3424218&btnG=">DOI:10.1109/JSEN.2024.3424218</a>.</p>
 </li>
-<li><p>J. Wu, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Robust output regulation of a class of minimum-phase linear uncertain systems by event-triggered control,&rdquo; <i>IEEE Transactions on Control of Network Systems</i>, vol. 11, no. 2, pp. 989-998, Jun. 2024, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTCNS.2023.3330446&btnG=">DOI:10.1109/TCNS.2023.3330446</a>.</p>
-</li>
-<li><p>X. He, <b>M. Lu</b>*, S. Wang, F. Deng and J. Chen, &ldquo;Output feedback control of uncertain Euler–Lagrange systems by internal model,&rdquo; <i>Automatica</i>, vol. 156, Oct. 2023, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1016%2Fj.automatica.2023.111189&btnG=">DOI: 10.1016/j.automatica.2023.111189</a>.</p>
-</li>
-<li><p>J. Wu, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Cooperative robust output regulation of linear uncertain multi-agent systems: A dynamic event-triggered approach,&rdquo; <i>International Journal of Robust and Nonlinear Control</i>, vol. 33, no. 18, pp. 11538-11552, 2023, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A10.1002%2Frnc.6957&btnG=">DOI:10.1002/rnc.6957</a>. </p>
-</li>
-<li><p><b>M. Lu</b>, &ldquo;A sensory feedback based discrete distributed observer to cooperative output regulation,&rdquo; <i>IEEE Transactions on Automatic Control</i>, vol. 67, no. 9, pp. 4762-4769, Sept. 2022, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A10.1109%2FTAC.2022.3162545&btnG=">DOI:10.1109/TAC.2022.3162545</a>.</p>
-</li>
-<li><p>J. Wu, <b>M. Lu</b>*, F. Deng and J. Chen, &ldquo;Robust output regulation of linear uncertain systems by dynamic event-triggered output feedback control,&rdquo; <i>IEEE Transactions on Cybernetics</i>, vol. 53, no. 11, pp. 7333-7341, Nov. 2023, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTCYB.2023.3235731&btnG=">DOI:10.1109/TCYB.2023.3235731</a>.</p>
-</li>
-<li><p>L. Liang, F. Deng, J. Wang, <b>M. Lu</b> and J. Chen, &ldquo;A reconnaissance penetration game with territorial-constrained defender,&rdquo; <i>IEEE Transactions on Automatic Control</i>, vol. 67, no. 11, pp. 6295-6302, Nov. 2022, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2022.3183034&btnG=">DOI:10.1109/TAC.2022.3183034</a>.</p>
-</li>
-<li><p><b>M. Lu</b> and L. Liu, &ldquo;A low gain approach to output consensus of networked heterogeneous linear multi-agent systems,&rdquo; <i>SIAM Journal on Control and Optimization</i>, vol. 59,no. 6,pp. 4295-4313, Nov. 2021, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI.org%2F10.1137%2F19M1296458&btnG=">DOI.org/10.1137/19M1296458</a>.</p>
-</li>
-<li><p><b>M. Lu</b> and L. Liu, &ldquo;Consensus of heterogeneous second-order nonlinear uncertain multi-agent systems under switching networks,&rdquo; <i>IEEE Transactions on Automatic Control</i>, vol. 66, no. 7, pp. 3331-3338, July 2021, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A10.1109%2FTAC.2020.3019737&btnG=">DOI:10.1109/TAC.2020.3019737</a>.</p>
-</li>
-<li><p><b>M. Lu</b> and L. Liu, &ldquo;Robust synchronization control of switched networked Euler–Lagrange systems,&rdquo; <i>IEEE Transactions on Cybernetics</i>, vol. 52, no. 7, pp. 6834-6842, July 2022, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTCYB.2020.3031009&btnG=">DOI:10.1109/TCYB.2020.3031009</a>.</p>
-</li>
-<li><p><b>M. Lu</b> and L. Liu, &ldquo;Quantized output regulation of minimum-phase linear uncertain systems,&rdquo; <i>International Journal of Robust and Nonlinear Control</i>, vol. 30, no. 17, pp. 7074 – 7088, Feb. 2020, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1002%2Frnc.5157&btnG=">DOI:10.1002/rnc.5157</a>.</p>
-</li>
-<li><p>L. Liang, F. Deng, <b>M. Lu</b> and J. Chen, &ldquo;Analysis of role switch for cooperative target defense differential game,&rdquo; <i>IEEE Transactions on Automatic Control</i>, vol. 66, no. 2, pp. 902-909, Feb. 2021, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2020.2987701&btnG=">DOI:10.1109/TAC.2020.2987701</a>.</p>
-</li>
-<li><p><b>M. Lu</b> and L. Liu, &ldquo;Leader-following attitude consensus of multiple rigid spacecraft systems under switching networks,&rdquo; <i>IEEE Transactions on Automatic Control</i>, vol. 65, no. 2, pp. 839 – 845, Feb. 2020, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2019.2920074&btnG=">DOI:10.1109/TAC.2019.2920074</a>.</p>
-</li>
-<li><p><b>M. Lu</b> and L. Liu, &ldquo;Leader-following consensus of multiple uncertain Euler-Lagrange systems with unknown dynamic leader,&rdquo; <i>IEEE Transactions on Automatic Control</i>, vol. 64, no. 10, pp. 4167 – 4173, Oct. 2019, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A10.1109%2FTAC.2019.2892384&btnG=">DOI:10.1109/TAC.2019.2892384</a>.</p>
-</li>
-<li><p><b>M. Lu</b>, L. Liu and G. Feng, &ldquo;Adaptive tracking control of uncertain Euler-Lagrange systems subject to external disturbances,&rdquo; <i>Automatica</i>, vol. 104, pp. 207 – 219, Mar. 2019, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1016%2Fj.automatica.2019.02.048&btnG=">DOI:10.1016/j.automatica.2019.02.048</a>. (Regular paper)</p>
-</li>
-<li><p><b>M. Lu</b> and L. Liu, &ldquo;Leader-following consensus of second-order nonlinear multi-agent systems subject to disturbances,&rdquo; <i>Frontiers of Information Technology &amp; Electronic Engineering</i>, vol. 20, no. 1, pp. 88 – 94, Jan. 2019, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1631%2FFITEE.1800611&btnG=">DOI:10.1631/FITEE.1800611</a>. (Invited Paper)</p>
-</li>
-<li><p><b>M. Lu</b> and L. Liu, &ldquo;Leader-following consensus of multiple uncertain Euler-Lagrange systems,&rdquo; <i>International Journal of Robust and Nonlinear Control</i>, vol. 28, no. 14, pp. 4093 – 4104, Sep. 2018, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1002%2Frnc.4223&btnG=">DOI:10.1002/rnc.4223</a>.</p>
-</li>
-<li><p><b>M. Lu</b> and L. Liu, &ldquo;Robust output consensus of networked heterogeneous nonlinear systems by distributed output regulation,&rdquo; <i>Automatica</i>, vol. 94, pp. 186 – 193, Aug. 2018, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1016%2Fj.automatica.2018.04.018&btnG=">DOI:10.1016/j.automatica.2018.04.018</a>.</p>
-</li>
-<li><p><b>M. Lu</b> and L. Liu, &ldquo;Leader-following consensus of multiple uncertain Euler-Lagrange systems subject to communication delays and switching networks,&rdquo; <i>IEEE Transactions on Automatic Control</i>, vol. 63, no. 8, pp. 2604 – 2611, Aug. 2018, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2017.2771318&btnG=">DOI:10.1109/TAC.2017.2771318</a>.</p>
-</li>
-<li><p><b>M. Lu</b>, &ldquo;Rendezvous with connectivity preservation of mobile agents subject to uniform time-delays,&rdquo; <i>Automatica</i>, vol. 88, pp. 31 – 37, Feb. 2018, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1016%2Fj.automatica.2017.11.003&btnG=">DOI:10.1016/j.automatica.2017.11.003</a>.</p>
-</li>
-<li><p><b>M. Lu</b> and J. Huang, &ldquo;Internal model approach to cooperative robust output regulation for linear uncertain time-delay multi-agent systems,&rdquo; <i>International Journal of Robust and Nonlinear Control</i>, vol. 28, no. 6, pp. 2528 – 2542, Jan. 2018, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1002%2Frnc.4034&btnG=">DOI:10.1002/rnc.4034</a>.</p>
-</li>
-<li><p><b>M. Lu</b> and L. Liu, &ldquo;Cooperative output regulation of linear multi-agent systems by a novel distributed dynamic compensator,&rdquo; <i>IEEE Transactions on Automatic Control</i>, vol. 62, no. 12, pp. 6481 – 6488, Dec. 2017, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2017.2658026&btnG=">DOI:10.1109/TAC.2017.2658026</a>.</p>
-</li>
-<li><p><b>M. Lu</b> and L. Liu, &ldquo;Distributed feedforward approach to cooperative output regulation subject to communication delays and switching networks,&rdquo; <i>IEEE Transactions on Automatic Control</i>, vol. 62, no. 4, pp. 1999 – 2005, Apr. 2017, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2016.2594151&btnG=">DOI:10.1109/TAC.2016.2594151</a>.</p>
-</li>
-<li><p><b>M. Lu</b> and L. Liu, &ldquo;Consensus of linear multi-agent systems subject to communication delays and switching networks,&rdquo; <i>International Journal of Robust and Nonlinear Control</i>, vol. 27, no. 9, pp. 1379 – 1396, Jun. 2017, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1002%2Frnc.3750&btnG=">DOI:10.1002/rnc.3750</a>. <b>(Front Cover Paper)</b></p>
-</li>
-<li><p><b>M. Lu</b> and J. Huang, &ldquo;Cooperative output regulation problem for linear time-delay multi-agent systems under switching network,&rdquo; <i>Neurocomputing</i>, vol. 190, pp. 132-139,May. 2016, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1016%2Fj.neucom.2016.01.025&btnG=">DOI:10.1016/j.neucom.2016.01.025</a>.</p>
-</li>
-<li><p><b>M. Lu</b> and J. Huang, &ldquo;Cooperative global robust output regulation for a class of nonlinear multi-agent systems with a nonlinear leader,&rdquo; <i>IEEE Transactions on Automatic Control</i>, vol. 61, no. 11, pp. 3557 – 3562, Feb. 2016, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1109%2FTAC.2016.2527920&btnG=">DOI:10.1109/TAC.2016.2527920</a>.</p>
-</li>
-<li><p><b>M. Lu</b> and J. Huang, &ldquo;A class of nonlinear internal models for global robust output regulation problem,&rdquo; <i>International Journal of Robust and Nonlinear Control</i>, vol. 25, no. 12, pp. 1831 – 1843, Aug. 2015, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1002%2Frnc.3180&btnG=">DOI:10.1002/rnc.3180</a>.</p>
-</li>
-<li><p><b>M. Lu</b> and J. Huang, &ldquo;Robust output regulation problem for linear time-delay systems,&rdquo; <i>International Journal of Control</i>, vol. 88, no. 6, pp. 1236 – 1245, Jan. 2015, <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DOI%3A+10.1080%2F00207179.2014.1002111&btnG=">DOI:10.1080/00207179.2014.1002111</a>.</p>
+<li><p>T. Niu, L. Wang, <b>Y. Xu</b>, J. Wang and S. Wang, &ldquo;Quintic Bézier curve and numerical optimal solution based path planning approach in seismic exploration,&rdquo; <i>Control Engineering Practice</i>, vol. 145, pp. 105855, Apr. 2024, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1016%2Fj.conengprac.2024.105855&btnG=">DOI:10.1016/j.conengprac.2024.105855</a>.</p>
 </li>
 </ol>
 </section>
