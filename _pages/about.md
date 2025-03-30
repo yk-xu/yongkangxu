@@ -122,50 +122,27 @@ redirect_from:
 <h2>Pending Patents and Software</h2>
 <h3>Patents</h3>
 <ol>
-<li><p>S. Yuan, <b>M. Lu</b> and X. Liu, &ldquo;Topology optimization-based cobweb-like interlayer rib plate composite structure design method,&rdquo; <i>National Inventing Patents</i>, China, PN: CN101980222B, issued Dec. 2013.</p>
+<li><p>S. Wang, <b>Y. Xu</b>, C. Deng and et al, &ldquo;A grid thermal infrared camera calibration board suitable for various calibration methods,&rdquo; <i>National Inventing Patents</i>, China, PN: CN116704039A.</p>
 </li>
-<li><p>S. Yuan and <b>M. Lu</b>, &ldquo;Design method of bionic spider web composite material structure,&rdquo; <i>National Inventing Patents</i>, PN: CN101950316B, issued Nov. 2012.</p>
+<li><p>S. Wang, L. Zhang, <b>Y. Xu</b> and et al, &ldquo;A wheel diameter measurement method based on single-line lidar,&rdquo; <i>National Inventing Patents</i>, PN: CN117346672A.</p>
 </li>
-<li><p>S. Yuan, Z. Zhan, and <b>M. Lu</b>, &ldquo;Dynamic property scaling type model researching method for large machine tool,&rdquo; <i>National Inventing Patents</i>, PN: CN102184303A, issued Sep. 2011.</p>
+<li><p>S. Wang, L. Zhang, <b>Y. Xu</b> and et al, &ldquo;An AGV autonomous operation system for commercial vehicle transshipment,&rdquo; <i>National Inventing Patents</i>, PN: CN117389273A.</p>
 </li>
-<li><p><b>M. Lu</b>, X. He, F. Deng, J. Chen, B. Xie, J. Dong and G. Liu, &ldquo;A multi-robot serial-to-WIFI communication and collaborative motion control method,&rdquo; <i>National Inventing Patents</i>, PN: CN115026811A, issued Sep. 2022.</p>
+<li><p>S. Wang, L. Liu, <b>Y. Xu</b> and et al, &ldquo;A multi-sensor target docking system for commercial vehicle transfer robot,&rdquo; <i>National Inventing Patents</i>, PN: CN117434949A.</p>
 </li>
-<li><p><b>M. Lu</b>, X. He, F. Deng, J. Chen, B. Xie, J. Dong and G. Liu, &ldquo;Ros-based multi-robot distributed collaborative control method and system,&rdquo; <i>National Inventing Patents</i>, PN: CN115145264A, issued Oct. 2022.</p>
+<li><p>S. Wang, L. Zhang, <b>Y. Xu</b> and et al, &ldquo;An automatic docking method of commercial vehicles based on line laser radar,&rdquo; <i>National Inventing Patents</i>, PN: CN117538895A.</p>
 </li>
-<li><p><b>M. Lu</b>, Q. Wang, M. Huang, J. Cai, C. Gao, F. Deng and J. Chen, &ldquo;Embedded-based telephoto lens autofocus system and method,&rdquo; <i>National Inventing Patents</i>, PN: CN115980965A, issued Apr. 2023.</p>
+<li><p>S. Wang, L. Liu, <b>Y. Xu</b> and et al, &ldquo;An autonomous obstacle avoidance method for mobile robot based on multi-line lidar,&rdquo; <i>National Inventing Patents</i>, PN: CN118584947A.</p>
 </li>
-<li><p><b>M. Lu</b>, Z. Bao, L. Zhang, H. Yang, F. Deng and J. Chen, &ldquo;A flexible spacecraft attitude inner-model control method under external disturbances,&rdquo; <i>National Inventing Patents</i>, PN: CN115840358A, issued Mar. 2023.</p>
+<li><p>S. Wang, H. Yuan, <b>Y. Xu</b> and et al, &ldquo;A special inspection robot and inspection method for continuous annealing furnace working environment,&rdquo; <i>National Inventing Patents</i>, PN: CN118456461A.</p>
 </li>
-<li><p><b>M. Lu</b>, B. Xie, J. Dong, G. Sun, G. Liu, F. Deng and J. Chen, &ldquo;A desktop-level six-degree-of-freedom robotic arm structure,&rdquo; <i>National Inventing Patents</i>, PN: CN115890644A, issued Apr. 2023.</p>
+<li><p>S. Wang, J. Si, <b>Y. Xu</b> and et al, &ldquo;A rocket ground autonomous recovery system in weak ground-to-air communication environment,&rdquo; <i>National Inventing Patents</i>, PN: CN116123940B.</p>
 </li>
-<li><p><b>M. Lu</b>, G. Liu, B. Xie, J. Dong, X. He, G. Sun, F. Deng and J. Chen, &ldquo;A stepper motor position closed-loop control system and method,&rdquo; <i>National Inventing Patents</i>, PN: CN116015141A, issued Apr. 2023.</p>
-</li>
-<li><p><b>M. Lu</b>, B. Xie, J. Dong, G. Liu, X. Yang, F. Deng and J. Chen, &ldquo;A robot communication architecture and communication method based on serial communication and bus communication,&rdquo; <i>National Inventing Patents</i>, PN: ZL202310042145.7, issued May. 2023.</p>
-</li>
-<li><p><b>M. Lu</b>, J. Dong, Y. Lin, B. Xie, G. Liu, F. Deng and J. Chen, &ldquo;A stepper motor current output control system and method,&rdquo; <i>National Inventing Patents</i>, PN: CN116111900A, issued May. 2023.</p>
-</li>
-<li><p><b>M. Lu</b>, G. Liu, B. Xie, J. Dong, X. He, Y. Lin, G. Sun, F. Deng and J. Chen, &ldquo;A hybrid stepper motor closed-loop driver,&rdquo; <i>National Inventing Patents</i>, PN: CN116169910A, issued May. 2023.</p>
-</li>
-<li><p><b>M. Lu</b>, X. Yang, Y. Lin, G. Liu, J. Dong, B. Xie, F. Deng and J. Chen, &ldquo;A 42mm hybrid stepper motor position closed-loop driver,&rdquo; <i>National Inventing Patents</i>, PN: CN116683818A, issued Sep. 2023.</p>
-</li>
-<li><p><b>M. Lu</b>, B. Xie, G. Liu, J. Dong, F. Deng and J. Chen, &ldquo;A two-phase four-wire hybrid stepper motor closed-loop vector driver,&rdquo; <i>National Inventing Patents</i>, PN: CN116743016A, issued Sep. 2023.</p>
-</li>
-<li><p><b>M. Lu</b>, G. Liu, B. Xie, J. Dong, G. Sun, F. Deng and J. Chen, &ldquo;A modular assembly-supported six-degree-of-freedom robotic arm structure,&rdquo; <i>National Inventing Patents</i>, PN: CN116766170A, issued Sep. 2023.</p>
-</li>
-<li><p><b>M. Lu</b>, G. Sun, B. Xie, G. Liu, F. Deng and J. Chen, &ldquo;A desktop-level high-load four-degree-of-freedom robotic arm structure,&rdquo; <i>National Inventing Patents</i>, PN: CN116968081A, issued Oct. 2023.</p>
-</li>
-<li><p><b>M. Lu</b>, J. Dong, B. Xie, G. Liu, X. He , F. Deng and J. Chen, &ldquo;Stepper motor trapezoidal segment position tracking control system and method,&rdquo; <i>National Inventing Patents</i>, PN: CN117013908A, issued Nov. 2023.</p>
-</li>
-<li><p><b>M. Lu</b>, Y. Lu, Q. Wang, J. Cai, Y. Lin, Y. Bao, F. Wang, F. Deng, C. Chen, H. Fu and J. Chen, &ldquo;A ground navigation map construction method based on drone perspective,&rdquo; <i>National Inventing Patents</i>, filed Nov. 2023.</p>
-</li>
-<li><p><b>M. Lu</b>, J. Wu, L. Zhang, F. Deng and J. Chen, &ldquo;An event-triggered system regulation control method under network attacks,&rdquo; <i>National Inventing Patents</i>, filed Dec. 2023.</p>
-</li>
-<li><p><b>M. Lu</b>, Y. Lu, Q. Wang, Y. Lin, J. Cai, Y. Bao, F. Wang, F. Deng and J. Chen, &ldquo;A ground navigation map construction method based on drone perspective,&rdquo; <i>National Inventing Patents</i>, filed Dec. 2023.</p>
-</li>
+
 </ol>
 <h3>Software</h3>
 <ol>
-<li><p>S. Yuan and <b>M. Lu</b>, &ldquo;The analysis and optimization system for motorized spindle of NC machine tools,&rdquo; <i>Software Copyright</i>, China, register No.:2010SR027562.</p>
+<!-- <li><p>S. Yuan and <b>M. Lu</b>, &ldquo;The analysis and optimization system for motorized spindle of NC machine tools,&rdquo; <i>Software Copyright</i>, China, register No.:2010SR027562.</p>
 </li>
 <li><p><b>M. Lu</b>, J. Dong, B. Xie, G. Liu, F. Deng and J. Chen &ldquo;An ESP32-based CAN bus communication system,&rdquo; <i>Software Copyright</i>, China, register No.:2023SR0372311, granted Mar. 2023.</p>
 </li>
@@ -174,7 +151,7 @@ redirect_from:
 <li><p><b>M. Lu</b>, G. Liu, X. He, B. Xie, J. Dong, G. Sun, F. Deng and J. Chen &ldquo;A stepper motor position detection software based on a measuring encoder,&rdquo; <i>Software Copyright</i>, China, register No.:2023SR0375421, granted Mar. 2023.</p>
 </li>
 <li><p><b>M. Lu</b>, B. Xie, J. Dong, G. Liu, X. Yang, F. Deng and J. Chen &ldquo;A JSON-based communication system between ROS and ESP32,&rdquo; <i>Software Copyright</i>, China, register No.:2023SR0375420, granted Mar. 2023.</p>
-</li>
+</li> -->
 </ol>
 </section>
 
