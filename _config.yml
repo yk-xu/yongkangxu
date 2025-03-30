@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "maobinlu"
-description              : "maobinlu's personal homepage"
-repository               : "maobinlu.github.io"
+title                    : "Yongkang Xu"
+description              : "Yongkang Xu's personal homepage"
+repository               : "yk-xu/xuyk.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,18 +21,18 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Maobin Lu 吕茂斌"
-  avatar           : "images/lmb.png"
+  name             : "Yongkang Xu 许永康"
+  avatar           : "images/xuyk.jpg"
   bio              : "Professor"                 
   school           : "School of Automation"
   university       : "Beijing Institute of Technology (BIT)"
   location         : "Beijing, China"
   #  "5 South Zhongguancun Street, Beijing, 100081, China"
-  office           : "Room 807,Bldg 6, Zhongguancun Science Park, Beijing Institute of Technology"
+  office           : "Room 807,Bldg 6, Beijing Institute of Technology"
   employer         : 
   pubmed           : 
 # googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "lumaobin@bit.edu.cn"
+  email            : "yongkang.xu@bit.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
