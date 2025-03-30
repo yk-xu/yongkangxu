@@ -62,27 +62,31 @@ redirect_from:
 <li><p>J. Xue, Z. Chen, S. Wang and <b>Y. Xu</b>*, &ldquo;Roll Torque Vibration Isolation Control on Parallel Active Suspension System via Impedance-based MPC for Vehicular Terminal,&rdquo; <i>IEEE Transactions on Automation Science and Engineering</i>, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FTASE.2025.3539596&btnG=">DOI:10.1109/TASE.2025.3539596</a>.<b><span style="font-family: serif; color: black;">（IF：5.9, 中科院二区 TOP）</span></b></p>
 </li>
 
-<li><p>Z. Chen, J. Huang, S. Wang, J. Wang and <b>Y. Xu</b>*, &ldquo;Whole-body stability control of foot walking for wheel-legged robot on unstructured terrain,&rdquo; <i>Robotic Intelligence and Automation</i>, Vol. 157, pp. 496-509, Feb, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1108%2FRIA-10-2024-0209&btnG=">DOI:10.1108/RIA-10-2024-0209</a>.</p>
+<li><p><b>Y. Xu</b>, Z. Chen, C. Deng, S. Wang and J. Wang, &ldquo;LCDL: Toward Dynamic Localization for Autonomous Landing of Unmanned Aerial Vehicle Based on LiDAR–Camera Fusion,&rdquo; <i>IEEE Sensors Journal</i>, vol. 24, no. 16, pp. 26407-26415, Aug.15, 2024, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FJSEN.2024.3424218&btnG=">DOI:10.1109/JSEN.2024.3424218</a>.<b><span style="font-family: serif; color: black;">（IF：4.3, 中科院二区）</span></b></p>
 </li>
 
-<li><p>C. Deng, S. Wang, J. Wang, <b>Y. Xu</b>* and Z Chen, &ldquo;Lidar depth cluster active detection and localization for a uav with partial information loss in gnss,&rdquo; <i>Unmanned Systems</i>, Vol. 13, Np. 02 pp. 491-503, Mar. 30, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1142%2FS2301385025500293&btnG=">DOI:10.1142/S2301385025500293</a>.</p>
+<li><p>C. Deng, S. Wang, J. Wang, <b>Y. Xu</b>* and Z Chen, &ldquo;Lidar depth cluster active detection and localization for a uav with partial information loss in gnss,&rdquo; <i>Unmanned Systems</i>, Vol. 13, Np. 02 pp. 491-503, Mar. 30, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1142%2FS2301385025500293&btnG=">DOI:10.1142/S2301385025500293</a>.<b><span style="font-family: serif; color: black;">（IF：3, 中科院三区）</span></b></p>
 </li>
 
-<li><p>J Si, B Li, <b>Y. Xu</b>, L Wang, C Deng, J Wang, S Wang, &ldquo;Recover a moving rotor UAV without ground–air communications: System and control of a dual-stage tracking device,&rdquo; <i>ISA transactions</i>, Vol. 157, pp. 496-509, Feb, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1016%2Fj.isatra.2024.12.022&btnG=">DOI:10.1016/j.isatra.2024.12.022</a>.</p>
+<li><p>Z. Chen, J. Huang, S. Wang, J. Wang and <b>Y. Xu</b>*, &ldquo;Whole-body stability control of foot walking for wheel-legged robot on unstructured terrain,&rdquo; <i>Robotic Intelligence and Automation</i>, Vol. 157, pp. 496-509, Feb, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1108%2FRIA-10-2024-0209&btnG=">DOI:10.1108/RIA-10-2024-0209</a>.<b><span style="font-family: serif; color: black;">（IF：1.9, 中科院四区）</span></b></p>
 </li>
 
-<li><p>J Si, B Li, <b>Y. Xu</b>, L Wang, C Deng, J Wang, S Wang, &ldquo;Recover a moving rotor UAV without ground–air communications: System and control of a dual-stage tracking device,&rdquo; <i>Mechatronics</i>, Vol. 104, pp. 103235, Dec. 05, 2024, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1016%2Fj.mechatronics.2024.103235&btnG=">DOI:10.1016/j.mechatronics.2024.103235</a>.</p>
+
+<li><p>J Si, B Li, <b>Y. Xu</b>, L Wang, C Deng, J Wang, S Wang, &ldquo;Recover a moving rotor UAV without ground–air communications: System and control of a dual-stage tracking device,&rdquo; <i>ISA transactions</i>, Vol. 157, pp. 496-509, Feb, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1016%2Fj.isatra.2024.12.022&btnG=">DOI:10.1016/j.isatra.2024.12.022</a>.<b><span style="font-family: serif; color: black;">（IF：6.3, 中科院一区 TOP）</span></b></p>
 </li>
 
-<li><p>B. Li, S. Wang, J. Si, <b>Y. Xu</b>, L. Wang, C. Deng, J Wang and Z. Liu, &ldquo;A dynamic target tracking framework of UGV for UAV recovery under random disturbances,&rdquo; <i>Industrial Robot</i>, Vol. 51 No. 5, pp. 729-746, Sep. 13, 2024, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1108%2FIR-01-2024-0004&btnG=">DOI:10.1108/IR-01-2024-0004</a>.</p>
+<li><p>T. Niu, L. Wang, <b>Y. Xu</b>, J. Wang and S. Wang, &ldquo;Quintic Bézier curve and numerical optimal solution based path planning approach in seismic exploration,&rdquo; <i>Control Engineering Practice</i>, vol. 145, pp. 105855, Apr. 2024, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1016%2Fj.conengprac.2024.105855&btnG=">DOI:10.1016/j.conengprac.2024.105855</a>.<b><span style="font-family: serif; color: black;">（IF：5.4, 中科院二区）</span></b></p>
 </li>
 
-<li><p><b>Y. Xu</b>, Z. Chen, C. Deng, S. Wang and J. Wang, &ldquo;LCDL: Toward Dynamic Localization for Autonomous Landing of Unmanned Aerial Vehicle Based on LiDAR–Camera Fusion,&rdquo; <i>IEEE Sensors Journal</i>, vol. 24, no. 16, pp. 26407-26415, Aug.15, 2024, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FJSEN.2024.3424218&btnG=">DOI:10.1109/JSEN.2024.3424218</a>.</p>
+<li><p>J Si, B Li, <b>Y. Xu</b>, L Wang, C Deng, J Wang, S Wang, &ldquo;Recover a moving rotor UAV without ground–air communications: System and control of a dual-stage tracking device,&rdquo; <i>Mechatronics</i>, Vol. 104, pp. 103235, Dec. 05, 2024, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1016%2Fj.mechatronics.2024.103235&btnG=">DOI:10.1016/j.mechatronics.2024.103235</a>.<b><span style="font-family: serif; color: black;">（IF：3.1, 中科院三区）</span></b></p>
 </li>
 
-<li><p>T. Niu, L. Wang, <b>Y. Xu</b>, J. Wang and S. Wang, &ldquo;Quintic Bézier curve and numerical optimal solution based path planning approach in seismic exploration,&rdquo; <i>Control Engineering Practice</i>, vol. 145, pp. 105855, Apr. 2024, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1016%2Fj.conengprac.2024.105855&btnG=">DOI:10.1016/j.conengprac.2024.105855</a>.</p>
-
+<li><p>B. Li, S. Wang, J. Si, <b>Y. Xu</b>, L. Wang, C. Deng, J Wang and Z. Liu, &ldquo;A dynamic target tracking framework of UGV for UAV recovery under random disturbances,&rdquo; <i>Industrial Robot</i>, Vol. 51 No. 5, pp. 729-746, Sep. 13, 2024, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1108%2FIR-01-2024-0004&btnG=">DOI:10.1108/IR-01-2024-0004</a>.<b><span style="font-family: serif; color: black;">（IF：1.9, 中科院四区）</span></b></p>
 </li>
+
+
+
+
 </ol>
 </section>
 
