@@ -197,22 +197,22 @@ redirect_from:
 
 <h1> 📖 Teaching </h1>
 <h2>Undergraduate Courses:</h2>
-<ul>
+<!-- <ul>
 <li><p>Operational Research, 32 class hours</p>
 </li>
 </ul>
 <h2>Postgraduate Courses:</h2>
 <ul>
 <li><p>Optimization Theory and Methods, 32 class hours</p>
-</li>
+</li> -->
 </ul>
 <h2>Teaching Assistant(CUHK)</h2>
 <ul>
-<li><p>Engineering Mathematics, 2012-2014 spring</p>
+<!-- <li><p>Engineering Mathematics, 2012-2014 spring</p>
 </li>
 <li><p>Control and Industrial Automation, 2012-2013 fall</p>
 </li>
-<li><p>Modern Control Systems Analysis and Design, 2012-2013 fall
+<li><p>Modern Control Systems Analysis and Design, 2012-2013 fall -->
 <br />
 <br />
 <br />
@@ -244,18 +244,18 @@ redirect_from:
 <h3>Postdoctoral Fellows</h3>
 <div style="display: flex;">
   <!-- 左列 -->
-  <div style="width: 50%; padding-right: 10px;"> 
+   <!--  <div style="width: 50%; padding-right: 10px;"> 
     <ul>
       <li>Kedi Xie (2023-2025)</li>
     </ul>
   </div>
-</div>
+</div>-->
 
 <h3>PhD Students</h3>
 <div style="display: flex;">
 
   <!-- 左列 -->
-  <div style="width: 50%; padding-right: 10px;"> 
+   <!--  <div style="width: 50%; padding-right: 10px;"> 
     <ul>
       <li>Haizhou Yang (2020-2026)</li>
       <li>Lupeng Liu (2021-2025)</li>
@@ -264,10 +264,10 @@ redirect_from:
       <li>Geyuan Liu (2022-2028)</li>
       <li>Qiang Wang (2023-2027)</li>
     </ul>
-  </div>
+  </div>-->
 
   <!-- 右列 -->
-  <div style="width: 50%; padding-left: 10px;">
+  <!--  <div style="width: 50%; padding-left: 10px;">
     <ul>
       <li>Bowei Xie (2023-2027)</li>
       <li>Xianzhi Yang (2023-2029)</li>
@@ -277,7 +277,7 @@ redirect_from:
     </ul>
   </div>
 
-</div>
+</div>-->
 
 
 <h3>Master Students</h3>
@@ -285,7 +285,7 @@ redirect_from:
 <div style="display: flex;">
 
   <!-- 左列 -->
-  <div style="width: 50%; padding-right: 10px;">
+  <!--  <div style="width: 50%; padding-right: 10px;">
     <ul>
       <li>Jianyi Cai (2022-2025)</li>
       <li>Yulong Lin (2022-2025)</li>
@@ -293,10 +293,10 @@ redirect_from:
       <li>Yuhan Bao (2023-2026)</li>
       <li>Hongzeng Li (2023-2026)</li>
     </ul>
-  </div>
+  </div> -->
 
   <!-- 右列 -->
-  <div style="width: 50%; padding-left: 10px;">
+  <!--  <div style="width: 50%; padding-left: 10px;">
     <ul>
       <li>Qilin Yan (2023-2026)</li>
       <li>Fujian Sun (2024-2027)</li>
@@ -306,25 +306,25 @@ redirect_from:
     </ul>
   </div>
 
-</div>
+</div> -->
 
 <h2>Graduated Members</h2>
 <h3>PhD Students</h3>
 <div style="display: flex;">
 
   <!-- 左列 -->
-  <div style="width: 50%; padding-right: 10px;"> 
+  <!--  <div style="width: 50%; padding-right: 10px;"> 
     <ul>
       <li>Jieshuai Wu (2024)</li>
     </ul>
   </div>
-</div>
+</div> -->
 
 <h3>Master Students</h3>
 <div style="display: flex;">
 
   <!-- 左列 -->
-  <div style="width: 50%; padding-right: 10px;"> 
+  <!--  <div style="width: 50%; padding-right: 10px;"> 
     <ul>
       <li>Xingxiu He (2022)</li>
       <li>Yongjie Zhang (2023)</li>
@@ -332,7 +332,7 @@ redirect_from:
       <li>Juan Dong (2024)</li>
     </ul>
   </div>
-</div>
+</div> -->
 
 <!--<div class='paper-box'><div class='full-width-box'><div><img src='images/合照.jpg' alt="sym" width="100%"></div></div></div> -->
 </section>
