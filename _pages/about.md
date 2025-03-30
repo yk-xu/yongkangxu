@@ -334,7 +334,7 @@ redirect_from:
   </div>
 </div>
 
-<div class='paper-box'><div class='full-width-box'><div><img src='images/合照.jpg' alt="sym" width="100%"></div></div></div>
+<!--<div class='paper-box'><div class='full-width-box'><div><img src='images/合照.jpg' alt="sym" width="100%"></div></div></div> -->
 </section>
 
 
@@ -363,7 +363,7 @@ Z. Bao, **M. Lu**, F. Deng
 </div>
 </div> -->
 <ul>
-  <li><p>Best Paper Award for IEEE ICCA, 2024</p>
+<!--   <li><p>Best Paper Award for IEEE ICCA, 2024</p>
   </li>
   <li><p>Best Theoretical Paper Award for YAC, 2023</p>
   </li>
@@ -374,7 +374,7 @@ Z. Bao, **M. Lu**, F. Deng
   <li><p>Shimemura Young Author Prize for ASCC, 2017</p>
   </li>
   <li><p>Hong Kong Reaching Out Award 2014-2015, 2015</p>
-  </li>
+  </li> -->
 </ul>
 </section>
 
@@ -383,13 +383,13 @@ Z. Bao, **M. Lu**, F. Deng
 <h2>Competition Awards</h2>
 
 <ul>
-  <li><p>2024 Intelligent Unmanned Systems Challenge - Flight Obstacle Avoidance Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a> </p>
-  </li>
+<!--   <li><p>2024 Intelligent Unmanned Systems Challenge - Flight Obstacle Avoidance Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a> </p>
+  </li> -->
 
-  <li><p>2024 Intelligent Unmanned Systems Challenge - Air-Ground Coordination Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a> </p>
-  </li>
+ <!--   <li><p>2024 Intelligent Unmanned Systems Challenge - Air-Ground Coordination Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a> </p>
+  </li> -->
 
-  <li><p>2023 "Challenge Cup" Capital University Students' Extracurricular Academic and Scientific Works Provincial Competition Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E9%BB%91%E7%A7%91%E6%8A%80%E6%8F%90%E4%BA%A4%E8%A7%86%E9%A2%91.mp4" class="download-btn" download>Video</a> </p>
+ <!--   <li><p>2023 "Challenge Cup" Capital University Students' Extracurricular Academic and Scientific Works Provincial Competition Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E9%BB%91%E7%A7%91%E6%8A%80%E6%8F%90%E4%BA%A4%E8%A7%86%E9%A2%91.mp4" class="download-btn" download>Video</a> </p>
   </li>
 
   <li><p>2023 Intelligent Unmanned Systems Challenge - Flight Obstacle Avoidance Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E7%85%A7%E8%90%A4%E6%9D%AF%E2%80%9D2023%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a> </p>
@@ -402,7 +402,7 @@ Z. Bao, **M. Lu**, F. Deng
   </li>
 
   <li><p>18th "Challenge Cup" National College Students' Extracurricular Academic and Scientific Works Competition Runner-up</p>
-  </li>
+  </li> -->
 </ul>
 </section>
 </section>
@@ -417,16 +417,16 @@ Z. Bao, **M. Lu**, F. Deng
 
 <h2>Research Grants</h2>
 <ul>
-<li><p>Principal Investigator,&ldquo;Robust cooperative output regulation and its application&rdquo;,National Natural Science Foundation of China,2020.01-2023.12</p>
+<li><p>Principal Investigator,&ldquo;Research on the design of commercial vehicle-oriented transportation robot&rdquo;,The Beijing Institute of Technology Technology Innovation Programme (ITIP) Special Student Technology Innovation Team Project,2024.01-2025.6</p>
 </li>
-<li><p>Principal Investigator,&ldquo;Cooperative output regulation of multi-agent systems&rdquo;,Young Teachers Academic Startup Project of Beijing Institute of Technology,2018.09-2021.09</p>
+<li><p>Participant,&ldquo;Design and optimization of a small multi-functional high-mobility rescue robot system for major natural disasters&rdquo;,National Key R&D Program of China,2020.01-2022.12</p>
 </li>
-<li><p>Participant,&ldquo;Basic theory and key technology of flexible wearable sensor network systems based on ubiquitous energy&rdquo;,Key Program of National Natural Science Foundation of China,2020.01-2024.12</p>
+<li><p>Participant,&ldquo;Autonomous motion control theory and key technologies of wheel-foot robot in complex terrain&rdquo;,General Program of National Natural Science Fund of China,2020.01-2024.12</p>
 </li>
-<li><p>Participant,&ldquo;Attachment and Cooperative control of complex flexible systems on asteroids&rdquo;,National Key R&D Program of China,2019.12-2024.11</p>
+<li><p>Participant,&ldquo;Research on key control method of UAV ground dynamic recovery based on cooperation of unmanned vehicle and Stewart platform&rdquo;,General Program of National Natural Science Fund of China,2025.01-2029.12</p>
 </li>
-<li><p>Participant,&ldquo;Cooperative output regulation of nonlinear multi-agent systems and its applications&rdquo;,National Natural Science Foundation of China,2018.01-2021.12</p>
-</li>
+<!-- <li><p>Participant,&ldquo;Cooperative output regulation of nonlinear multi-agent systems and its applications&rdquo;,National Natural Science Foundation of China,2018.01-2021.12</p>
+</li> -->
 </ul>
 </section>
 
@@ -435,7 +435,7 @@ Z. Bao, **M. Lu**, F. Deng
 <h2>Professional Activities</h2>
 <h3>International Program Committee</h3>
 <ul>
-<li><p>Associate Editor: The 2020 IEEE International Conference on Control &amp; Automation, Sapporo, Hokkaido, Japan, Jul. 6–9, 2020</p>
+<!-- <li><p>Associate Editor: The 2020 IEEE International Conference on Control &amp; Automation, Sapporo, Hokkaido, Japan, Jul. 6–9, 2020</p>
 </li>
 <li><p>Associate Editor: The 2020 16th International Conference on Control, Automation, Robotics and Vision (ICARCV), Shenzhen, Dec. 13–15, 2020</p>
 </li>
@@ -448,33 +448,33 @@ Z. Bao, **M. Lu**, F. Deng
 <li><p>Publicity Chair and Associate Editor: The 2017 IEEE International Conference on Control &amp; Automation, Ohrid, Macedonia, Jul. 3–6, 2017</p>
 </li>
 <li><p>Associate Editor: The 2016 IEEE International Conference on Control &amp; Automation, Kathmandu, Nepal, Jun. 1–3, 2016</p>
-</li>
+</li> -->
 </ul>
 <h3>Journal Reviewer</h3>
 <ul>
-<li><p>IEEE Transactions on Automatic Control</p>
+<li><p>IEEE/ASME Transactions on Mechatronics</p>
 </li>
-<li><p>Automatica</p>
+<li><p>IEEE Transactions on Automation Science and Engineering</p>
 </li>
-<li><p>International Journal of Robust and Nonlinear Control</p>
+<li><p>IEEE Transactions on Intelligent Transportation Systems</p>
 </li>
-<li><p>IEEE Transactions on Cybernetics <b>(Outstanding Reviewer Award)</b></p>
+<li><p>IEEE Transactions on Circuits and Systems</p>
 </li>
-<li><p>IEEE Transactions on Control Systems Technology</p>
+<li><p>Advanced Engineering Informatics</p>
 </li>
-<li><p>IEEE Transactions on Control of Network Systems</p>
+<li><p>ISA Transactions</p>
 </li>
-<li><p>IEEE Control Systems Letters</p>
+<li><p>Measurement Science and Technology</p>
 </li>
-<li><p>European Journal of Control</p>
+<li><p>The Innovation</p>
 </li>
 <li><p>Control Engineering Practice</p>
 </li>
-<li><p>Nonlinear Analysis: Hybrid Systems</p>
+<li><p>Engineering Research Express</p>
 </li>
 <li><p>Unmanned Systems</p>
 </li>
-<li><p>Journal of Control Theory and Applications</p>
+<li><p>Bioinspiration & Biomimetics</p>
 </li>
 </ul>
 </section>
@@ -483,7 +483,7 @@ Z. Bao, **M. Lu**, F. Deng
 
 <h2>Conference Presentations</h2>
 <ul>
-<li><p>The 2019 IEEE International Conference on Control &amp; Automation, Edinburgh, Scotland, Jul. 16–19, 2019 (20 mins)</p>
+<!-- <li><p>The 2019 IEEE International Conference on Control &amp; Automation, Edinburgh, Scotland, Jul. 16–19, 2019 (20 mins)</p>
 </li>
 <li><p>The 2018 Chinese Control and Decision Conference, Shenyang, China, Jun. 9–11, 2018 (20 mins)</p>
 </li>
@@ -502,7 +502,7 @@ Z. Bao, **M. Lu**, F. Deng
 <li><p>The 4th IEEE International Conference on Cyber Technology in Automation, Control and Intelligent Systems, Hong Kong, China, June 4–7, 2014 (20 mins)</p>
 </li>
 <li><p>The 32nd Chinese Control Conference, Xi’an, China, July 26–28, 2013 (20 mins)</p>
-</li>
+</li> -->
 </ul>
 </section>
 </section>
