@@ -20,22 +20,25 @@ main:
       - title: "Thesis"
         url: "/#-thesis"
         data-level: "2"  # 子项
-  - title: "Teaching"
-    url: "/#-teaching"
-    data-level: "1"  # 父项
-  - title: "Research Group"
-    url: "/#-group"
-    data-level: "1"  # 父项
-  - title: "Awards"
-    url: "/#-awards"
-    data-level: "1"  # 父项
-    submenus:
-      - title: "Research Awards"
-        url: "/#-research-awards"
-        data-level: "2"  # 子项
-      - title: "Competition Awards"
-        url: "/#-competition-awards"
-        data-level: "2"  # 子项
+        
+  # - title: "Teaching"
+  #   url: "/#-teaching"
+  #   data-level: "1"  # 父项
+  # - title: "Research Group"
+  #   url: "/#-group"
+  #   data-level: "1"  # 父项
+  
+  # - title: "Awards"
+  #   url: "/#-awards"
+  #   data-level: "1"  # 父项
+  #   submenus:
+  #     - title: "Research Awards"
+  #       url: "/#-research-awards"
+  #       data-level: "2"  # 子项
+  #     - title: "Competition Awards"
+  #       url: "/#-competition-awards"
+  #       data-level: "2"  # 子项
+        
   - title: "Service"
     url: "/#-service"
     data-level: "1"  # 父项
