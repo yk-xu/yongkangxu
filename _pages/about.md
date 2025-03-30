@@ -178,17 +178,6 @@ redirect_from:
 </ol>
 </section>
 
-<section id='-thesis' data-level="2">
-
-<h2>Thesis</h2>
-<ol>
-<li><p><b>M. Lu</b>, &ldquo;The Output Regulation of Linear Time-Delay Systems and Complex Nonlinear Systems,&rdquo; Ph.D. Thesis, Department of Mechanical and Automation Engineering, CUHK, Hong Kong, China, Aug. 2015.</p>
-</li>
-<li><p><b>M. Lu</b>, &ldquo;Design, Analysis, and Dynamic Optimization of NC Machine Tool,&rdquo; M.S. Thesis, School of Mechanical Engineering and Automation, BUAA, Beijing, China, June, 2011.</p>
-</li>
-</ol>
-
-</section>
 </section>
 
 
