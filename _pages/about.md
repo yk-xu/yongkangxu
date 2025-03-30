@@ -53,7 +53,7 @@ redirect_from:
 <h2>Journal Papers</h2>
 
 <ol>
-<li><p><b>Y. Xu</b>, R. Bao, L. Zhang, S. Wang and J. Wang, &ldquo;Embodied intelligence in RO/RO logistic terminal: autonomous intelligent transportation robot architecture: principle, design, and experiment,&rdquo; <i>SCIENCE CHINA Information Sciences</i>, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FTASE.2025.3539596&btnG=">DOI:10.1109/SCIS.2025.3539596</a>.</p><span style="font-family: serif; color: red;">中科院一区 TOP IF：7.3</span>
+<li><p><b>Y. Xu</b>, R. Bao, L. Zhang, S. Wang and J. Wang, &ldquo;Embodied intelligence in RO/RO logistic terminal: autonomous intelligent transportation robot architecture: principle, design, and experiment,&rdquo; <i>SCIENCE CHINA Information Sciences</i>, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FTASE.2025.3539596&btnG=">DOI:10.1109/SCIS.2025.3539596</a>.</p><b><span style="font-family: serif; color: red;">中科院一区 TOP IF：7.3</span></b>
 </li>
 
 <li><p>J. Xue, S. Wang, <b>Y. Xu</b>* and J. Wang, &ldquo;A Velocity Tracking Approach Based on Neural Networks for a Multi-Modal Wheel-Legged Composite Gait on a Parallel Structure Robot,&rdquo; <i>IEEE/ASME Transactions on Mechatronics</i>, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FTASE.2025.3539596&btnG=">DOI:10.1109/TMECH.2025.3539596</a>.</p>
