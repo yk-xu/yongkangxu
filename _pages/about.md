@@ -62,10 +62,10 @@ redirect_from:
 <li><p>J. Xue, Z. Chen, S. Wang and <b>Y. Xu</b>*, &ldquo;Roll Torque Vibration Isolation Control on Parallel Active Suspension System via Impedance-based MPC for Vehicular Terminal,&rdquo; <i>IEEE Transactions on Automation Science and Engineering</i>, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FTASE.2025.3539596&btnG=">DOI:10.1109/TASE.2025.3539596</a>.</p>
 </li>
 
-<li><p>Z. Chen, J. Huang, S. Wang, J. Wang and <b>Y. Xu</b>*, &ldquo;Whole-body stability control of foot walking for wheel-legged robot on unstructured terrain,&rdquo; <i>Robotic Intelligence and Automation</i>i>, Vol. 157, pp. 496-509, Feb, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1108%2FRIA-10-2024-0209&btnG=">DOI:10.1108/RIA-10-2024-0209</a>.</p>
+<li><p>Z. Chen, J. Huang, S. Wang, J. Wang and <b>Y. Xu</b>*, &ldquo;Whole-body stability control of foot walking for wheel-legged robot on unstructured terrain,&rdquo; <i>Robotic Intelligence and Automation</i>, Vol. 157, pp. 496-509, Feb, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1108%2FRIA-10-2024-0209&btnG=">DOI:10.1108/RIA-10-2024-0209</a>.</p>
 </li>
 
-<li><p>C. Deng, S. Wang, J. Wang, <b>Y. Xu</b>* and Z Chen, &ldquo;Lidar depth cluster active detection and localization for a uav with partial information loss in gnss,&rdquo; </i>Unmanned Systems</i>, Vol. 13, Np. 02 pp. 491-503, Mar. 30, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1142%2FS2301385025500293&btnG=">DOI:10.1142/S2301385025500293</a>.</p>
+<li><p>C. Deng, S. Wang, J. Wang, <b>Y. Xu</b>* and Z Chen, &ldquo;Lidar depth cluster active detection and localization for a uav with partial information loss in gnss,&rdquo; <i>Unmanned Systems</i>, Vol. 13, Np. 02 pp. 491-503, Mar. 30, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1142%2FS2301385025500293&btnG=">DOI:10.1142/S2301385025500293</a>.</p>
 </li>
 
 <li><p>J Si, B Li, <b>Y. Xu</b>, L Wang, C Deng, J Wang, S Wang, &ldquo;Recover a moving rotor UAV without ground–air communications: System and control of a dual-stage tracking device,&rdquo; <i>ISA transactions</i>, Vol. 157, pp. 496-509, Feb, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1016%2Fj.isatra.2024.12.022&btnG=">DOI:10.1016/j.isatra.2024.12.022</a>.</p>
