@@ -20,7 +20,7 @@ redirect_from:
 <section id="-about-me" data-level="1">
 
   <p>Yongkang Xu is a Ph.D. candidate at the School of Automation, Beijing Institute of Technology, whose research primarily focuses on output regulation of complex dynamic systems, distributed estimation, cooperative control and game theory, as well as unmanned system control. As the first author or corresponding author, he has published multiple papers in top-tier journals in the fields of systems and control, such as IEEE/ASME Transactions on Mechatronics (IEEE TMECH) and IEEE Transactions on Automation Science and Engineering (IEEE TASE). Additionally, he has participated in and won awards at several innovation and technology competitions, including the National Grand Prize in the China College Students' Robotics Technology Innovation Exchange Camp and Robotics Competition, the Gold Award in the 2024 China International College Students' Innovation Competition, and the National Second Prize in the 5th China Graduate Robotics Innovation Design Competition.</p>
-<!--   <p>He currently serves as the Deputy Secretary-General of the Youth Work Committee of the Chinese Association of Automation and as a member of the Committee on Autonomous and Unmanned Systems of the Chinese Association for Artificial Intelligence.</p> -->
+  <p>The WeChat Official Account "<b>IPMCUS</b>" is established to share glimpses of scientific research and scholarly experiences. Focused on academia, this platform is designed to provide insights into research methodologies, challenges in scholarly pursuits, and reflections on scientific discoveries.</p>
 
  <h1><i class="fa fa-vcard-o" aria-hidden="true"></i> Personal Information</h1>
 
