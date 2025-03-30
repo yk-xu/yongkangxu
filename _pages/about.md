@@ -19,24 +19,23 @@ redirect_from:
 <!-- Homepage  -->
 <section id="-about-me" data-level="1">
 
-  <p>Lu Maobin is a professor at the School of Automation, Beijing Institute of Technology, and a doctoral supervisor. He is a recipient of the Youth Program of the 16th batch of the "Overseas High-level Talent Introduction Program" in China. His research mainly focuses on output regulation of complex dynamic systems, distributed estimation, cooperative control and game theory, and unmanned system control. He has published more than ten first-author papers in top-tier journals in the field of systems and control, such as IEEE Transactions on Automatic Control (IEEE TAC) and Automatica. Currently, he is leading projects such as the National Key Technology R&D Program for Next-generation Artificial Intelligence, the General Program of the National Natural Science Foundation of China, and key projects funded by the Beijing Natural Science Foundation-Xiaomi Innovation Joint Fund.</p>
-  <p>His research achievements have won several prestigious awards, including the IEEE ICCA Best Paper Award, the Zhang Siying (CCDC) Outstanding Young Paper Award at the Chinese Control and Decision Conference, the Shimemura Young Author Award at the Asian Control Conference, and the Best Paper Award at the World Congress on Intelligent Control and Automation (WCICA). He has also mentored students who have won multiple innovation and technology competition awards, such as the championship in the UAV Intelligent Perception Technology Competition, the grand prize in the International Smart Unmanned Systems Application Challenge (Flight Obstacle Avoidance) and the first prize in the Air-ground Coordination competition, the grand prize in the Capital Challenge Cup, and the runner-up in the RoboMaster Mech Master AI Challenge Elite Competition.</p>
-  <p>He currently serves as the Deputy Secretary-General of the Youth Work Committee of the Chinese Association of Automation and as a member of the Committee on Autonomous and Unmanned Systems of the Chinese Association for Artificial Intelligence.</p>
+  <p>Yongkang Xu is a Ph.D. candidate at the School of Automation, Beijing Institute of Technology, whose research primarily focuses on output regulation of complex dynamic systems, distributed estimation, cooperative control and game theory, as well as unmanned system control. As the first author or corresponding author, he has published multiple papers in top-tier journals in the fields of systems and control, such as IEEE/ASME Transactions on Mechatronics (IEEE TMECH) and IEEE Transactions on Automation Science and Engineering (IEEE TASE). Additionally, he has participated in and won awards at several innovation and technology competitions, including the National Grand Prize in the China College Students' Robotics Technology Innovation Exchange Camp and Robotics Competition, the Gold Award in the 2024 China International College Students' Innovation Competition, and the National Second Prize in the 5th China Graduate Robotics Innovation Design Competition.</p>
+<!--   <p>He currently serves as the Deputy Secretary-General of the Youth Work Committee of the Chinese Association of Automation and as a member of the Committee on Autonomous and Unmanned Systems of the Chinese Association for Artificial Intelligence.</p> -->
 
  <h1><i class="fa fa-vcard-o" aria-hidden="true"></i> Personal Information</h1>
 
  <ul>
-   <li><p><i>Nov.2020 - Now</i>, Professor, Control Science and Engineering, Beijing Institute of Technology.</p></li>
-   <li><p><i>Aug.2015 - Sep.2018</i>, Postdoctoral Fellow, Automation Engineering, City University of Hong Kong.</p></li>
-   <li><p><i>Sep.2011 - Aug.2015</i>, Ph.D., Mechanical and Automation Engineering, The Chinese University of Hong Kong.</p></li>
-   <li><p><i>Sep.2008 - Jul.2011</i>, M.S., Mechanical Engineering, Beihang University.</p></li>
-   <li><p><i>Sep.2004 - Jul.2008</i>, B.S., Mechanical Engineering, North China University of Technology.</p></li>
+<!--    <li><p><i>Nov.2020 - Now</i>, Professor, Control Science and Engineering, Beijing Institute of Technology.</p></li>
+   <li><p><i>Aug.2015 - Sep.2018</i>, Postdoctoral Fellow, Automation Engineering, City University of Hong Kong.</p></li> -->
+   <li><p><i>Sep.2025 - Aug.2021</i>, Ph.D., Control Science and Engineering, Beijing Institute of Technology.</p></li>
+   <li><p><i>Sep.2021 - Jul.2018</i>, M.S., Mechanical Engineering, Central South University.</p></li>
+   <li><p><i>Sep.2017 - Jul.2013</i>, B.S., Mechanical Engineering, Anhui Polytechnic University.</p></li>
  </ul>
 
  <h1> 🔥 Research Interests </h1>
 
  <ul>
-   <li><p>Networked Control: Robot Systems, Vehicles, Spacecrafts</p>
+   <li><p>Networked Control: Robot Systems, Vehicles, UAV</p>
    </li>
    <li><p>Output Regulation: Linear Systems, Nonliear Systems, Time-Delay Systems</p>
    </li>
