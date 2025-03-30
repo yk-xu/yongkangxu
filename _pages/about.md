@@ -181,7 +181,7 @@ redirect_from:
 </section>
 
 
- Teaching -->
+<!--  Teaching -->
 <section id='-teaching' data-level="1">
 
 <h1> 📖 Teaching </h1>
@@ -424,9 +424,9 @@ Z. Bao, **M. Lu**, F. Deng
 <h2>Professional Activities</h2>
 <h3>International Program Committee</h3>
 <ul>
-<!-- <li><p>Associate Editor: The 2020 IEEE International Conference on Control &amp; Automation, Sapporo, Hokkaido, Japan, Jul. 6–9, 2020</p>
+<li><p>Session Chair: The 2023 WRC Symposium on Advanced Robotics and Automation（WRC SARA） &amp; Automation, Beijing, China, Aug. 23–24, 2023</p>
 </li>
-<li><p>Associate Editor: The 2020 16th International Conference on Control, Automation, Robotics and Vision (ICARCV), Shenzhen, Dec. 13–15, 2020</p>
+<!-- <li><p>Associate Editor: The 2020 16th International Conference on Control, Automation, Robotics and Vision (ICARCV), Shenzhen, Dec. 13–15, 2020</p>
 </li>
 <li><p>Associate Editor and Session Chair: The 2019 IEEE International Conference on Control &amp; Automation, Edinburgh, Scotland, Jul. 16–19, 2019</p>
 </li>
@@ -472,11 +472,11 @@ Z. Bao, **M. Lu**, F. Deng
 
 <h2>Conference Presentations</h2>
 <ul>
-<!-- <li><p>The 2019 IEEE International Conference on Control &amp; Automation, Edinburgh, Scotland, Jul. 16–19, 2019 (20 mins)</p>
+<li><p>The 2023 International Federation of Automatic Control (IFAC) World Congress &amp; Automation, Yokohama, Japan, Jul. 16–19, 2023 (20 mins)</p>
 </li>
-<li><p>The 2018 Chinese Control and Decision Conference, Shenyang, China, Jun. 9–11, 2018 (20 mins)</p>
+<li><p>2021 China Automation Congress, Beijing, China, Jun. 9–11, 2020 (20 mins)</p>
 </li>
-<li><p>The 2018 Asian Control Conference, Gold Coast, Australia, Dec. 17–20, 2017 (20 mins)</p>
+<!--<li><p>The 2018 Asian Control Conference, Gold Coast, Australia, Dec. 17–20, 2017 (20 mins)</p>
 </li>
 <li><p>The 2017 American Control Conference, Seattle, USA, May 24–26, 2017 (20 mins)</p>
 </li>
