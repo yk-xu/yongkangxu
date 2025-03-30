@@ -146,7 +146,7 @@ redirect_from:
 </li>
 <li><p><b>Y. Xu</b>, S. Wang, H. Zhao and Z. Chen, &ldquo;Coordinated Motion Control for a Six-wheel-drive Skid-steering Mobile Robot,&rdquo; <i>2021 China Automation Congress (CAC)</i>, Beijing, China, 2021, pp. 7092-7097, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FCAC53003.2021.9727382&btnG=">DOI:10.1109/CAC53003.2021.9727382</a>.</p>
 </li>
-<li><p>H. Zaho, C. Luo, <b>Y. Xu</b>* and J. Li, &ldquo;Differential Steering Control for 6 × 6 Wheel-drive Mobile Robot,&rdquo; in <i>Proceedings of the 32th Chinese Control Conference</i>, Xi’an, China, Jul. 26–28, 2013, pp. 1052 – 1057.</p>
+<li><p>H. Zhao, C. Luo, <b>Y. Xu</b>* and J. Li, &ldquo;Differential Steering Control for 6 × 6 Wheel-drive Mobile Robot,&rdquo; in <i>Proceedings of the 32th Chinese Control Conference</i>, Xi’an, China, Jul. 26–28, 2013, pp. 1052 – 1057,<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.23919%2FICAC50006.2021.9594210&btnG=">DOI:10.23919/ICAC50006.2021.9594210</a>.</p>
 </li>
 <li><p>X. Zhou, J. He, W. Qi, Y. Hu, J. Dai, and <b>Y. Xu</b>, &ldquo;Hybrid IMU/muscle signals powered teleoperation control of serial manipulator incorporating passivity adaptation,&rdquo; <i>2021 26th International Conference on Automation and Computing (ICAC)</i>, Portsmouth, United Kingdom, 2021, pp. 1-6, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.23919%2FICAC50006.2021.9594210&btnG=">10.23919/ICAC50006.2021.9594210</a>.</p>
 </li>
