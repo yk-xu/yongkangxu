@@ -14,12 +14,12 @@ main:
       - title: "Conference Papers"
         url: "/#-conference-papers"
         data-level: "2"  # 子项
-      - title: "Pending Patents and Software"
-        url: "/#-pending-patents-and-software"
-        data-level: "2"  # 子项
-      - title: "Thesis"
-        url: "/#-thesis"
-        data-level: "2"  # 子项
+      # - title: "Pending Patents and Software"
+      #   url: "/#-pending-patents-and-software"
+      #   data-level: "2"  # 子项
+      # - title: "Thesis"
+      #   url: "/#-thesis"
+      #   data-level: "2"  # 子项
         
   # - title: "Teaching"
   #   url: "/#-teaching"
