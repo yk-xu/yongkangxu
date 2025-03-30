@@ -181,27 +181,27 @@ redirect_from:
 </section>
 
 
-<!-- Teaching -->
+ Teaching -->
 <section id='-teaching' data-level="1">
 
 <h1> 📖 Teaching </h1>
 <h2>Undergraduate Courses:</h2>
-<!-- <ul>
+ <ul>
 <li><p>Operational Research, 32 class hours</p>
 </li>
 </ul>
 <h2>Postgraduate Courses:</h2>
 <ul>
 <li><p>Optimization Theory and Methods, 32 class hours</p>
-</li> -->
+</li> 
 </ul>
 <h2>Teaching Assistant(CUHK)</h2>
 <ul>
-<!-- <li><p>Engineering Mathematics, 2012-2014 spring</p>
+ <li><p>Engineering Mathematics, 2012-2014 spring</p>
 </li>
 <li><p>Control and Industrial Automation, 2012-2013 fall</p>
 </li>
-<li><p>Modern Control Systems Analysis and Design, 2012-2013 fall -->
+<li><p>Modern Control Systems Analysis and Design, 2012-2013 fall 
 <br />
 <br />
 <br />
@@ -233,18 +233,18 @@ redirect_from:
 <h3>Postdoctoral Fellows</h3>
 <div style="display: flex;">
   <!-- 左列 -->
-   <!--  <div style="width: 50%; padding-right: 10px;"> 
+    <div style="width: 50%; padding-right: 10px;"> 
     <ul>
       <li>Kedi Xie (2023-2025)</li>
     </ul>
   </div>
-</div>-->
+</div>
 
 <h3>PhD Students</h3>
 <div style="display: flex;">
 
   <!-- 左列 -->
-   <!--  <div style="width: 50%; padding-right: 10px;"> 
+   <div style="width: 50%; padding-right: 10px;"> 
     <ul>
       <li>Haizhou Yang (2020-2026)</li>
       <li>Lupeng Liu (2021-2025)</li>
@@ -253,10 +253,10 @@ redirect_from:
       <li>Geyuan Liu (2022-2028)</li>
       <li>Qiang Wang (2023-2027)</li>
     </ul>
-  </div>-->
+  </div>
 
   <!-- 右列 -->
-  <!--  <div style="width: 50%; padding-left: 10px;">
+  <div style="width: 50%; padding-left: 10px;">
     <ul>
       <li>Bowei Xie (2023-2027)</li>
       <li>Xianzhi Yang (2023-2029)</li>
@@ -266,7 +266,7 @@ redirect_from:
     </ul>
   </div>
 
-</div>-->
+</div>
 
 
 <h3>Master Students</h3>
@@ -274,7 +274,7 @@ redirect_from:
 <div style="display: flex;">
 
   <!-- 左列 -->
-  <!--  <div style="width: 50%; padding-right: 10px;">
+ <div style="width: 50%; padding-right: 10px;">
     <ul>
       <li>Jianyi Cai (2022-2025)</li>
       <li>Yulong Lin (2022-2025)</li>
@@ -282,10 +282,10 @@ redirect_from:
       <li>Yuhan Bao (2023-2026)</li>
       <li>Hongzeng Li (2023-2026)</li>
     </ul>
-  </div> -->
+  </div> 
 
   <!-- 右列 -->
-  <!--  <div style="width: 50%; padding-left: 10px;">
+   <div style="width: 50%; padding-left: 10px;">
     <ul>
       <li>Qilin Yan (2023-2026)</li>
       <li>Fujian Sun (2024-2027)</li>
@@ -295,25 +295,25 @@ redirect_from:
     </ul>
   </div>
 
-</div> -->
+</div> 
 
 <h2>Graduated Members</h2>
 <h3>PhD Students</h3>
 <div style="display: flex;">
 
   <!-- 左列 -->
-  <!--  <div style="width: 50%; padding-right: 10px;"> 
+ <div style="width: 50%; padding-right: 10px;"> 
     <ul>
       <li>Jieshuai Wu (2024)</li>
     </ul>
   </div>
-</div> -->
+</div> 
 
 <h3>Master Students</h3>
 <div style="display: flex;">
 
   <!-- 左列 -->
-  <!--  <div style="width: 50%; padding-right: 10px;"> 
+ <div style="width: 50%; padding-right: 10px;"> 
     <ul>
       <li>Xingxiu He (2022)</li>
       <li>Yongjie Zhang (2023)</li>
@@ -321,9 +321,9 @@ redirect_from:
       <li>Juan Dong (2024)</li>
     </ul>
   </div>
-</div> -->
+</div> 
 
-<!--<div class='paper-box'><div class='full-width-box'><div><img src='images/合照.jpg' alt="sym" width="100%"></div></div></div> -->
+<div class='paper-box'><div class='full-width-box'><div><img src='images/合照.jpg' alt="sym" width="100%"></div></div></div> 
 </section>
 
 
@@ -337,7 +337,7 @@ redirect_from:
  
 <h2>Research Awards</h2>
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div>  <img src='images/Best Paper Award for ICCA.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div>  <img src='images/Best Paper Award for ICCA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Best Paper Award for ICCA, 2024
 
@@ -350,9 +350,9 @@ Best Theoretical Paper Award for YAC, 2023
 
 Z. Bao, **M. Lu**, F. Deng
 </div>
-</div> -->
+</div> 
 <ul>
-<!--   <li><p>Best Paper Award for IEEE ICCA, 2024</p>
+  <li><p>Best Paper Award for IEEE ICCA, 2024</p>
   </li>
   <li><p>Best Theoretical Paper Award for YAC, 2023</p>
   </li>
@@ -363,7 +363,7 @@ Z. Bao, **M. Lu**, F. Deng
   <li><p>Shimemura Young Author Prize for ASCC, 2017</p>
   </li>
   <li><p>Hong Kong Reaching Out Award 2014-2015, 2015</p>
-  </li> -->
+  </li> 
 </ul>
 </section>
 
@@ -372,13 +372,13 @@ Z. Bao, **M. Lu**, F. Deng
 <h2>Competition Awards</h2>
 
 <ul>
-<!--   <li><p>2024 Intelligent Unmanned Systems Challenge - Flight Obstacle Avoidance Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a> </p>
-  </li> -->
+   <li><p>2024 Intelligent Unmanned Systems Challenge - Flight Obstacle Avoidance Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a> </p>
+   </li> 
 
- <!--   <li><p>2024 Intelligent Unmanned Systems Challenge - Air-Ground Coordination Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a> </p>
-  </li> -->
+   <li><p>2024 Intelligent Unmanned Systems Challenge - Air-Ground Coordination Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E6%96%B0%E9%95%BF%E6%B1%9F%E6%9D%AF%E2%80%9D2024%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E7%A9%BA%E5%9C%B0%E5%8D%8F%E5%90%8C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a> </p>
+   </li>
 
- <!--   <li><p>2023 "Challenge Cup" Capital University Students' Extracurricular Academic and Scientific Works Provincial Competition Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E9%BB%91%E7%A7%91%E6%8A%80%E6%8F%90%E4%BA%A4%E8%A7%86%E9%A2%91.mp4" class="download-btn" download>Video</a> </p>
+   <li><p>2023 "Challenge Cup" Capital University Students' Extracurricular Academic and Scientific Works Provincial Competition Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E9%BB%91%E7%A7%91%E6%8A%80%E6%8F%90%E4%BA%A4%E8%A7%86%E9%A2%91.mp4" class="download-btn" download>Video</a> </p>
   </li>
 
   <li><p>2023 Intelligent Unmanned Systems Challenge - Flight Obstacle Avoidance Champion  <a href="https://github.com/Sterbenover/Drone-Racing-Video/raw/refs/heads/main/%E2%80%9C%E7%85%A7%E8%90%A4%E6%9D%AF%E2%80%9D2023%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E7%B3%BB%E7%BB%9F%E6%8C%91%E6%88%98%E8%B5%9B-%E9%A3%9E%E8%A1%8C%E9%81%BF%E9%9A%9C%E5%86%A0%E5%86%9B.mp4" class="download-btn" download>Video</a> </p>
@@ -391,7 +391,7 @@ Z. Bao, **M. Lu**, F. Deng
   </li>
 
   <li><p>18th "Challenge Cup" National College Students' Extracurricular Academic and Scientific Works Competition Runner-up</p>
-  </li> -->
+  </li>
 </ul>
 </section>
 </section>
