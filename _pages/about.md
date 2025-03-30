@@ -383,7 +383,7 @@ Z. Bao, **M. Lu**, F. Deng
 
 <h2>Research Grants</h2>
 <ul>
-<li><p>Principal Investigator,&ldquo;Research on the design of commercial vehicle-oriented transportation robot&rdquo;,The Beijing Institute of Technology Technology Innovation Programme (ITIP) Special Student Technology Innovation Team Project,2024.01-2025.6</p>
+<li><p><b>Principal Investigator</b>b>,&ldquo;Research on the design of commercial vehicle-oriented transportation robot&rdquo;,The Beijing Institute of Technology Technology Innovation Programme (ITIP) Special Student Technology Innovation Team Project,2024.01-2025.6</p>
 </li>
 <li><p>Participant,&ldquo;Design and optimization of a small multi-functional high-mobility rescue robot system for major natural disasters&rdquo;,National Key R&D Program of China,2020.01-2022.12</p>
 </li>
