@@ -52,10 +52,10 @@ main:
       - title: "Conference Presentations"
         url: "/#-conference-presentations"
         data-level: "2"  # 子项
-  - title: "Projects"
-    url: "/#-projects"
-    data-level: "1"  # 父项
-    submenus:
-      - title: "Demos & Codes"
-        url: "/#-demos-codes"
-        data-level: "2"  # 子项
+  # - title: "Projects"
+  #   url: "/#-projects"
+  #   data-level: "1"  # 父项
+  #   submenus:
+  #     - title: "Demos & Codes"
+  #       url: "/#-demos-codes"
+  #       data-level: "2"  # 子项
