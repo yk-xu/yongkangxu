@@ -53,13 +53,13 @@ redirect_from:
 <h2>Journal Papers</h2>
 
 <ol>
-<li><p><b>Y. Xu</b>, R. Bao, L. Zhang, S. Wang and J. Wang, &ldquo;Embodied intelligence in RO/RO logistic terminal: autonomous intelligent transportation robot architecture: principle, design, and experiment,&rdquo; <i>SCIENCE CHINA Information Sciences</i>, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FTASE.2025.3539596&btnG=">DOI:10.1109/SCIS.2025.3539596</a>.</p><b><span style="font-family: serif; color: red;">（中科院一区 TOP IF：7.3）</span></b>
+<li><p><b>Y. Xu</b>, R. Bao, L. Zhang, S. Wang and J. Wang, &ldquo;Embodied intelligence in RO/RO logistic terminal: autonomous intelligent transportation robot architecture: principle, design, and experiment,&rdquo; <i>SCIENCE CHINA Information Sciences</i>, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FTASE.2025.3539596&btnG=">DOI:10.1109/SCIS.2025.3539596</a>. <b><span style="font-family: serif; color: black;">（IF：7.3, 中科院一区 TOP）</span></b> </p>
 </li>
 
-<li><p>J. Xue, S. Wang, <b>Y. Xu</b>* and J. Wang, &ldquo;A Velocity Tracking Approach Based on Neural Networks for a Multi-Modal Wheel-Legged Composite Gait on a Parallel Structure Robot,&rdquo; <i>IEEE/ASME Transactions on Mechatronics</i>, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FTASE.2025.3539596&btnG=">DOI:10.1109/TMECH.2025.3539596</a>. <b><span style="font-family: serif; color: red;">（中科院一区 TOP IF：6.1）</span></b></p>
+<li><p>J. Xue, S. Wang, <b>Y. Xu</b>* and J. Wang, &ldquo;A Velocity Tracking Approach Based on Neural Networks for a Multi-Modal Wheel-Legged Composite Gait on a Parallel Structure Robot,&rdquo; <i>IEEE/ASME Transactions on Mechatronics</i>, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FTASE.2025.3539596&btnG=">DOI:10.1109/TMECH.2025.3539596</a>. <b><span style="font-family: serif; color: black;">（IF：6.1, 中科院一区 TOP）</span></b></p>
 </li>
 
-<li><p>J. Xue, Z. Chen, S. Wang and <b>Y. Xu</b>*, &ldquo;Roll Torque Vibration Isolation Control on Parallel Active Suspension System via Impedance-based MPC for Vehicular Terminal,&rdquo; <i>IEEE Transactions on Automation Science and Engineering</i>, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FTASE.2025.3539596&btnG=">DOI:10.1109/TASE.2025.3539596</a>.</p>
+<li><p>J. Xue, Z. Chen, S. Wang and <b>Y. Xu</b>*, &ldquo;Roll Torque Vibration Isolation Control on Parallel Active Suspension System via Impedance-based MPC for Vehicular Terminal,&rdquo; <i>IEEE Transactions on Automation Science and Engineering</i>, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FTASE.2025.3539596&btnG=">DOI:10.1109/TASE.2025.3539596</a>.<b><span style="font-family: serif; color: black;">（IF：5.9, 中科院二区 TOP）</span></b></p>
 </li>
 
 <li><p>Z. Chen, J. Huang, S. Wang, J. Wang and <b>Y. Xu</b>*, &ldquo;Whole-body stability control of foot walking for wheel-legged robot on unstructured terrain,&rdquo; <i>Robotic Intelligence and Automation</i>, Vol. 157, pp. 496-509, Feb, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1108%2FRIA-10-2024-0209&btnG=">DOI:10.1108/RIA-10-2024-0209</a>.</p>
