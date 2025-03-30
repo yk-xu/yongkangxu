@@ -54,13 +54,12 @@ redirect_from:
 
 <ol>
 
-<li><p>J. Xue, Z. Chen, S. Wang and <b>Y. Xu</b>*, &ldquo;Roll Torque Vibration Isolation Control on Parallel Active Suspension System via Impedance-based MPC for Vehicular Terminal,&rdquo; </i>IEEE Transactions on Automation Science and Engineering<i>, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FTASE.2025.3539596&btnG=">DOI:10.1109/TASE.2025.3539596 ( Early Access )</a>.</p>
+<li><p>J. Xue, Z. Chen, S. Wang and <b>Y. Xu</b>*, &ldquo;Roll Torque Vibration Isolation Control on Parallel Active Suspension System via Impedance-based MPC for Vehicular Terminal,&rdquo; </i>IEEE Transactions on Automation Science and Engineering<i>, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FTASE.2025.3539596&btnG=">DOI:10.1109/TASE.2025.3539596</a>.</p>
 
-<li><p>J. Xue, Z. Chen, S. Wang and <b>Y. Xu</b>*, &ldquo;Roll Torque Vibration Isolation Control on Parallel Active Suspension System via Impedance-based MPC for Vehicular Terminal,&rdquo; </i>IEEE Transactions on Automation Science and Engineering<i>, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FTASE.2025.3539596&btnG=">DOI:10.1109/TASE.2025.3539596( Early Access )</a>.</p> 
+<li><p>J. Xue, Z. Chen, S. Wang and <b>Y. Xu</b>*, &ldquo;Roll Torque Vibration Isolation Control on Parallel Active Suspension System via Impedance-based MPC for Vehicular Terminal,&rdquo; </i>IEEE Transactions on Automation Science and Engineering<i>, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FTASE.2025.3539596&btnG=">DOI:10.1109/TASE.2025.3539596</a>.</p>
 
 
-<li><p>Z. Chen, J. Huang, S. Wang, J. Wang and <b>Y. Xu</b>*, &ldquo;Whole-body stability control of foot walking for wheel-legged robot on unstructured terrain,&rdquo; </i>Robotic Intelligence and Automation<i>, Vol. 157, pp. 496-509, Feb, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1108%2FRIA-10-2024-0209&btnG=">DOI:10.1108/RIA-10-2024-0209</a>.</p> ( Early Access )
-</li>
+<li><p>Z. Chen, J. Huang, S. Wang, J. Wang and <b>Y. Xu</b>*, &ldquo;Whole-body stability control of foot walking for wheel-legged robot on unstructured terrain,&rdquo; </i>Robotic Intelligence and Automation<i>, Vol. 157, pp. 496-509, Feb, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1108%2FRIA-10-2024-0209&btnG=">DOI:10.1108/RIA-10-2024-0209</a>.</p>
 
 <li><p>C. Deng, S. Wang, J. Wang, <b>Y. Xu</b>* and Z Chen, &ldquo;Lidar depth cluster active detection and localization for a uav with partial information loss in gnss,&rdquo; </i>Unmanned Systems<i>, Vol. 13, Np. 02 pp. 491-503, Mar. 30, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1142%2FS2301385025500293&btnG=">DOI:10.1142/S2301385025500293</a>.</p>
 </li>
@@ -77,6 +76,7 @@ redirect_from:
 <li><p><b>Y. Xu</b>, Z. Chen, C. Deng, S. Wang and J. Wang, &ldquo;LCDL: Toward Dynamic Localization for Autonomous Landing of Unmanned Aerial Vehicle Based on LiDAR–Camera Fusion,&rdquo; <i>IEEE Sensors Journal</i>, vol. 24, no. 16, pp. 26407-26415, Aug.15, 2024, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FJSEN.2024.3424218&btnG=">DOI:10.1109/JSEN.2024.3424218</a>.</p>
 </li>
 <li><p>T. Niu, L. Wang, <b>Y. Xu</b>, J. Wang and S. Wang, &ldquo;Quintic Bézier curve and numerical optimal solution based path planning approach in seismic exploration,&rdquo; <i>Control Engineering Practice</i>, vol. 145, pp. 105855, Apr. 2024, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1016%2Fj.conengprac.2024.105855&btnG=">DOI:10.1016/j.conengprac.2024.105855</a>.</p>
+
 </li>
 </ol>
 </section>
@@ -99,7 +99,6 @@ redirect_from:
 <li><p>L. Ma, T. Chen, S. Wang, <b>Y. Xu</b> and J. Wang, &ldquo;Autonomous Robot System for Speed Tests of Vehicle&rdquo; in <i>2023 42nd Chinese Control Conference (CCC) </i>, Tianjin, China, 2023, pp. 2838-2843, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.23919%2FCCC58697.2023.10240056&btnG=">DOI:10.23919/CCC58697.2023.10240056</a>.</p>
 </li>
 
-</li>
 <li><p><b>Y. Xu</b>, Z. Chen, S. Wang and J. Wang, &ldquo;An Active Landing Recovery Method for Quadrotor UAV: Localization, Tracking and Buffering Landing,&rdquo; in <i>Proceedings of the 2023 IFAC World Congress</i>, Yokohama, Japan, 2023, pp. 3366-3372, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1016%2Fj.ifacol.2023.10.1483&btnG=)">DOI:10.1016/j.ifacol.2023.10.1483</a>.</p>
 </li>
 <li><p><b>Y. Xu</b>, S. Wang, H. Zhao and Z. Chen, &ldquo;Coordinated Motion Control for a Six-wheel-drive Skid-steering Mobile Robot,&rdquo; <i>2021 China Automation Congress (CAC)</i>, Beijing, China, 2021, pp. 7092-7097, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FCAC53003.2021.9727382&btnG=">DOI:10.1109/CAC53003.2021.9727382</a>.</p>
