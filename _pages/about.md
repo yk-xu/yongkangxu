@@ -27,9 +27,9 @@ redirect_from:
  <ul>
 <!--    <li><p><i>Nov.2020 - Now</i>, Professor, Control Science and Engineering, Beijing Institute of Technology.</p></li>
    <li><p><i>Aug.2015 - Sep.2018</i>, Postdoctoral Fellow, Automation Engineering, City University of Hong Kong.</p></li> -->
-   <li><p><i>Sep.2025 - Aug.2021</i>, Ph.D., Control Science and Engineering, Beijing Institute of Technology.</p></li>
-   <li><p><i>Sep.2021 - Jul.2018</i>, M.S., Mechanical Engineering, Central South University.</p></li>
-   <li><p><i>Sep.2017 - Jul.2013</i>, B.S., Mechanical Engineering, Anhui Polytechnic University.</p></li>
+   <li><p><i>Jul.2025 - Sep.2021</i>, Ph.D., Control Science and Engineering, Beijing Institute of Technology.</p></li>
+   <li><p><i>Jul.2021 - Sep.2018</i>, M.S., Mechanical Engineering, Central South University.</p></li>
+   <li><p><i>Jul.2017 - Sep.2013</i>, B.S., Mechanical Engineering, Anhui Polytechnic University.</p></li>
  </ul>
 
  <h1> 🔥 Research Interests </h1>
