@@ -94,7 +94,12 @@ redirect_from:
 <h2>Conference Papers</h2>
 
 <ol>
-
+<li><p><b>Y. Xu</b>, Z. Chen, S. Wang and J. Wang, &ldquo;An Active Landing Recovery Method for Quadrotor UAV: Localization, Tracking and Buffering Landing,&rdquo; in <i>Proceedings of the 2023 IFAC World Congress</i>, Yokohama, Japan, 2023, pp. 3366-3372, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1016%2Fj.ifacol.2023.10.1483&btnG=)">DOI:10.1016/j.ifacol.2023.10.1483</a>.</p>
+</li>
+  
+<li><p><b>Y. Xu</b>, S. Wang, H. Zhao and Z. Chen, &ldquo;Coordinated Motion Control for a Six-wheel-drive Skid-steering Mobile Robot,&rdquo; <i>2021 China Automation Congress (CAC)</i>, Beijing, China, 2021, pp. 7092-7097, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FCAC53003.2021.9727382&btnG=">DOI:10.1109/CAC53003.2021.9727382</a>.</p>
+</li>
+  
 <li><p>Z. Liu, <b>Y. Xu</b>, L. Zhang, S. Wang and J. Wang, &ldquo;The Control Strategy for Vehicle Transfer Robots in RO/RO Terminal Environments,&rdquo; in <i>2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) </i>, Abu Dhabi, United Arab Emirates, 2024, pp. 2237-2242,  <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FIROS58592.2024.10801881&btnG=">DOI:10.1109/IROS58592.2024.10801881</a>.</p>
 </li>
 
@@ -108,10 +113,6 @@ redirect_from:
 <li><p>L. Ma, T. Chen, S. Wang, <b>Y. Xu</b> and J. Wang, &ldquo;Autonomous Robot System for Speed Tests of Vehicle&rdquo; in <i>2023 42nd Chinese Control Conference (CCC) </i>, Tianjin, China, 2023, pp. 2838-2843, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.23919%2FCCC58697.2023.10240056&btnG=">DOI:10.23919/CCC58697.2023.10240056</a>.</p>
 </li>
 
-<li><p><b>Y. Xu</b>, Z. Chen, S. Wang and J. Wang, &ldquo;An Active Landing Recovery Method for Quadrotor UAV: Localization, Tracking and Buffering Landing,&rdquo; in <i>Proceedings of the 2023 IFAC World Congress</i>, Yokohama, Japan, 2023, pp. 3366-3372, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1016%2Fj.ifacol.2023.10.1483&btnG=)">DOI:10.1016/j.ifacol.2023.10.1483</a>.</p>
-</li>
-<li><p><b>Y. Xu</b>, S. Wang, H. Zhao and Z. Chen, &ldquo;Coordinated Motion Control for a Six-wheel-drive Skid-steering Mobile Robot,&rdquo; <i>2021 China Automation Congress (CAC)</i>, Beijing, China, 2021, pp. 7092-7097, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FCAC53003.2021.9727382&btnG=">DOI:10.1109/CAC53003.2021.9727382</a>.</p>
-</li>
 <li><p>H. Zhao, C. Luo, <b>Y. Xu</b>* and J. Li, &ldquo;Differential Steering Control for 6 × 6 Wheel-drive Mobile Robot,&rdquo; in <i>Proceedings of the 32th Chinese Control Conference</i>, Xi’an, China, Jul. 26–28, 2013, pp. 1052 – 1057,<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.23919%2FICAC50006.2021.9594210&btnG=">DOI:10.23919/ICAC50006.2021.9594210</a>.</p>
 </li>
 <li><p>X. Zhou, J. He, W. Qi, Y. Hu, J. Dai, and <b>Y. Xu</b>, &ldquo;Hybrid IMU/muscle signals powered teleoperation control of serial manipulator incorporating passivity adaptation,&rdquo; <i>2021 26th International Conference on Automation and Computing (ICAC)</i>, Portsmouth, United Kingdom, 2021, pp. 1-6, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.23919%2FICAC50006.2021.9594210&btnG=">10.23919/ICAC50006.2021.9594210</a>.</p>
