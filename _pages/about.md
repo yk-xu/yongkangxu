@@ -67,6 +67,10 @@ redirect_from:
 <li><p><b>Y. Xu</b>, Z. Chen, C. Deng, S. Wang and J. Wang, &ldquo;LCDL: Toward Dynamic Localization for Autonomous Landing of Unmanned Aerial Vehicle Based on LiDAR–Camera Fusion,&rdquo; <i>IEEE Sensors Journal</i>, vol. 24, no. 16, pp. 26407-26415, Aug.15, 2024, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FJSEN.2024.3424218&btnG=">DOI:10.1109/JSEN.2024.3424218</a>.<b><span style="font-family: serif; color: black;">（IF：4.3, 中科院二区）</span></b></p>
 </li>
 
+
+<li><p>汪首坤 <b>许永康</b>, 陈志华, 司金戈, 李斌， 王军政, &ldquo;无人机移动自主回收着陆原理及控制方法,&rdquo; <i>机械工程学报</i>, vol. 60, no. 3, pp. 34-46, 2024, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FJSEN.2024.3424218&btnG=">DOI:10.3901/JME.2024.03.034</a>.<b><span style="font-family: serif; color: black;">（IF：3, 中文期刊/导师一作）</span></b></p>
+</li>
+
 <li><p>C. Deng, S. Wang, J. Wang, <b>Y. Xu</b>* and Z Chen, &ldquo;Lidar depth cluster active detection and localization for a uav with partial information loss in gnss,&rdquo; <i>Unmanned Systems</i>, Vol. 13, Np. 02 pp. 491-503, Mar. 30, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1142%2FS2301385025500293&btnG=">DOI:10.1142/S2301385025500293</a>.<b><span style="font-family: serif; color: black;">（IF：3, 中科院三区）</span></b></p>
 </li>
 
