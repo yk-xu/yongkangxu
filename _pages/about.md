@@ -410,13 +410,15 @@ Z. Bao, **M. Lu**, F. Deng
 <section id='-professional-activities' data-level="2">
 
 <h2>Professional Activities</h2>
+
+
 <h3>International Program Committee</h3>
 <ul>
 <li><p>Session Chair: The 2023 WRC Symposium on Advanced Robotics and Automation（WRC SARA） &amp; Automation, Beijing, China, Aug. 23–24, 2023</p>
 </li>
-<!-- <li><p>Associate Editor: The 2020 16th International Conference on Control, Automation, Robotics and Vision (ICARCV), Shenzhen, Dec. 13–15, 2020</p>
+ <li><p>Youth Editor: Journal of Artificial Intelligence & Control Systems, 2025</p>
 </li>
-<li><p>Associate Editor and Session Chair: The 2019 IEEE International Conference on Control &amp; Automation, Edinburgh, Scotland, Jul. 16–19, 2019</p>
+<!--<li><p>Associate Editor and Session Chair: The 2019 IEEE International Conference on Control &amp; Automation, Edinburgh, Scotland, Jul. 16–19, 2019</p>
 </li>
 <li><p>Associate Editor: The 2018 15th International Conference on Control, Automation, Robotics and Vision (ICARCV), Singapore, Nov. 18–21, 2018</p>
 </li>
