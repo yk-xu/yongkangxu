@@ -53,12 +53,12 @@ redirect_from:
 <h2>Journal Papers</h2>
 
 <ol>
-<li><p><b>Y. Xu</b>, R. Bao, L. Zhang, S. Wang and J. Wang, &ldquo;Embodied intelligence in RO/RO logistic terminal: autonomous intelligent transportation robot architecture,&rdquo; <i>SCIENCE CHINA Information Sciences</i>, vol. 68, no. 5, pp. 150210, Apr.25,2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FTASE.2025.3539596&btnG=">DOI:10.1007/s11432-024-4395-7</a>. <b><span style="font-family: serif; color: black;">（IF：7.3, 中科院一区 TOP）</span></b> </p>
+<li><p><b>Y. Xu</b>, R. Bao, L. Zhang, S. Wang and J. Wang, &ldquo;Embodied intelligence in RO/RO logistic terminal: autonomous intelligent transportation robot architecture,&rdquo; <i>SCIENCE CHINA Information Sciences</i>, vol. 68, no. 5, pp. 150210, Apr.25,2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1007%2Fs11432-024-4395-7&btnG=">DOI:10.1007/s11432-024-4395-7</a>. <b><span style="font-family: serif; color: black;">（IF：7.3, 中科院一区 TOP）</span></b> </p>
 </li>
 <li><p><b>Y. Xu</b>, L. Zhang, S. Wang and J. Wang, &ldquo;Design and development of a new autonomous transportation robot for finished vehicle docking transportation in RO/RO logistics terminal  ,&rdquo; <i>Advanced Engineering Informatics</i>, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FTASE.2025.3539596&btnG=">DOI:10.1109/10.1016/j.aei.2025.103391</a>. <b><span style="font-family: serif; color: black;">（IF：8, 中科院一区 TOP）</span></b> </p>
 </li>
 
-<li><p>J. Xue, S. Wang, <b>Y. Xu</b>* and J. Wang, &ldquo;A Velocity Tracking Approach Based on Neural Networks for a Multi-Modal Wheel-Legged Composite Gait on a Parallel Structure Robot,&rdquo; <i>IEEE/ASME Transactions on Mechatronics</i>, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FTASE.2025.3539596&btnG=">DOI:10.1109/TMECH.2025.3559016</a>. <b><span style="font-family: serif; color: black;">（IF：6.1, 中科院一区 TOP）</span></b></p>
+<li><p>J. Xue, S. Wang, <b>Y. Xu</b>* and J. Wang, &ldquo;A Velocity Tracking Approach Based on Neural Networks for a Multi-Modal Wheel-Legged Composite Gait on a Parallel Structure Robot,&rdquo; <i>IEEE/ASME Transactions on Mechatronics</i>, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FTMECH.2025.3559016&btnG=">DOI:10.1109/TMECH.2025.3559016</a>. <b><span style="font-family: serif; color: black;">（IF：6.1, 中科院一区 TOP）</span></b></p>
 </li>
 
 <li><p>J. Xue, Z. Chen, S. Wang and <b>Y. Xu</b>*, &ldquo;Roll Torque Vibration Isolation Control on Parallel Active Suspension System via Impedance-based MPC for Vehicular Terminal,&rdquo; <i>IEEE Transactions on Automation Science and Engineering</i>, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FTASE.2025.3539596&btnG=">DOI:10.1109/TASE.2025.3539596</a>.<b><span style="font-family: serif; color: black;">（IF：5.9, 中科院二区 TOP）</span></b></p>
@@ -78,7 +78,7 @@ redirect_from:
 </li>
 
 
-<li><p>J Si, B Li, <b>Y. Xu</b>, L Wang, C Deng, J Wang, S Wang, &ldquo;Recover a moving rotor UAV without ground–air communications: System and control of a dual-stage tracking device,&rdquo; <i>ISA transactions</i>, Vol. 157, pp. 496-509, Feb, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1016%2Fj.isatra.2024.12.022&btnG=">DOI:10.1016/j.isatra.2024.12.022</a>.<b><span style="font-family: serif; color: black;">（IF：6.3, 中科院一区 TOP）</span></b></p>
+<li><p>J Si, <b>Y. Xu</b>, T Niu,  L Wang, B Li, C Deng, J Wang, S Wang, &ldquo;Dynamic docking algorithm for UGV to UAV based on single planning under disturbed conditions,&rdquo; <i>ISA transactions</i>, Vol. 157, pp. 496-509, Feb, 2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1016%2Fj.isatra.2024.12.022&btnG=">DOI:10.1016/j.isatra.2024.12.022</a>.<b><span style="font-family: serif; color: black;">（IF：6.3, 中科院一区 TOP）</span></b></p>
 </li>
 
 <li><p>T. Niu, L. Wang, <b>Y. Xu</b>, J. Wang and S. Wang, &ldquo;Quintic Bézier curve and numerical optimal solution based path planning approach in seismic exploration,&rdquo; <i>Control Engineering Practice</i>, vol. 145, pp. 105855, Apr. 2024, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1016%2Fj.conengprac.2024.105855&btnG=">DOI:10.1016/j.conengprac.2024.105855</a>.<b><span style="font-family: serif; color: black;">（IF：5.4, 中科院二区）</span></b></p>
@@ -100,31 +100,34 @@ redirect_from:
 <h2>Conference Papers</h2>
 
 <ol>
-<li><p><b>Y. Xu</b>, Z. Chen, S. Wang and J. Wang, &ldquo;An Active Landing Recovery Method for Quadrotor UAV: Localization, Tracking and Buffering Landing,&rdquo; in <i>Proceedings of the 2023 IFAC World Congress</i>, Yokohama, Japan, 2023, pp. 3366-3372, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1016%2Fj.ifacol.2023.10.1483&btnG=)">DOI:10.1016/j.ifacol.2023.10.1483</a>.</p>
+<li><p><b>Y. Xu</b>, Z. Chen, S. Wang and J. Wang, &ldquo;An Active Landing Recovery Method for Quadrotor UAV: Localization, Tracking and Buffering Landing,&rdquo; in <i>Proceedings of the 2023 IFAC World Congress</i>, Yokohama, Japan, 2023, pp. 3366-3372, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1016%2Fj.ifacol.2023.10.1483&btnG=)">DOI:10.1016/j.ifacol.2023.10.1483</a>.（EI, IFAC World Congress 2023）</p>
 </li>
   
-<li><p><b>Y. Xu</b>, S. Wang, H. Zhao and Z. Chen, &ldquo;Coordinated Motion Control for a Six-wheel-drive Skid-steering Mobile Robot,&rdquo; <i>2021 China Automation Congress (CAC)</i>, Beijing, China, 2021, pp. 7092-7097, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FCAC53003.2021.9727382&btnG=">DOI:10.1109/CAC53003.2021.9727382</a>.</p>
-</li>
-  
-<li><p>Z. Liu, <b>Y. Xu</b>, L. Zhang, S. Wang and J. Wang, &ldquo;The Control Strategy for Vehicle Transfer Robots in RO/RO Terminal Environments,&rdquo; in <i>2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) </i>, Abu Dhabi, United Arab Emirates, 2024, pp. 2237-2242,  <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FIROS58592.2024.10801881&btnG=">DOI:10.1109/IROS58592.2024.10801881</a>.</p>
+<li><p><b>Y. Xu</b>, S. Wang, H. Zhao and Z. Chen, &ldquo;Coordinated Motion Control for a Six-wheel-drive Skid-steering Mobile Robot,&rdquo; <i>2021 China Automation Congress (CAC)</i>, Beijing, China, 2021, pp. 7092-7097, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FCAC53003.2021.9727382&btnG=">DOI:10.1109/CAC53003.2021.9727382</a>.（EI, CAC2021）</p>
 </li>
 
-
-<li><p>J. Si, B. Li, <b>Y. Xu</b>, C. Deng， S. Wang, and J. Wang, &ldquo;Trajectory-prediction-based Dynamic Tracking of a UGV to a Moving Target under Multi-disturbed Conditions&rdquo; in <i>2024 IEEE International Conference on Robotics and Automation (ICRA) </i>, Yokohama, Japan, 2024, pp. 18265-18271, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FICRA57147.2024.10611690&btnG=">DOI:10.1109/ICRA57147.2024.10611690</a>.</p>
-</li>
-
-<li><p>Z. Liu, L. Zhang, S. Wang, T. Niu, <b>Y. Xu</b> and J. Cao, &ldquo;Research on Path Planning of Mobile Robot Based on DWA-IMP-A* Algorithm&rdquo; in <i>2023 42nd Chinese Control Conference (CCC) </i>, Tianjin, China, 2023, pp. 4261-4266, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.23919%2FCCC58697.2023.10240368&btnG=">DOI:10.23919/CCC58697.2023.10240368</a>.</p>
-</li>
-
-<li><p>L. Ma, T. Chen, S. Wang, <b>Y. Xu</b> and J. Wang, &ldquo;Autonomous Robot System for Speed Tests of Vehicle&rdquo; in <i>2023 42nd Chinese Control Conference (CCC) </i>, Tianjin, China, 2023, pp. 2838-2843, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.23919%2FCCC58697.2023.10240056&btnG=">DOI:10.23919/CCC58697.2023.10240056</a>.</p>
-</li>
-
-<li><p>H. Zhao, C. Luo, <b>Y. Xu</b>* and J. Li, &ldquo;Differential Steering Control for 6 × 6 Wheel-drive Mobile Robot,&rdquo; in <i>Proceedings of the 32th Chinese Control Conference</i>, Xi’an, China, Jul. 26–28, 2013, pp. 1052 – 1057,<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.23919%2FICAC50006.2021.9594210&btnG=">DOI:10.23919/ICAC50006.2021.9594210</a>.</p>
-</li>
-<li><p>X. Zhou, J. He, W. Qi, Y. Hu, J. Dai, and <b>Y. Xu</b>, &ldquo;Hybrid IMU/muscle signals powered teleoperation control of serial manipulator incorporating passivity adaptation,&rdquo; <i>2021 26th International Conference on Automation and Computing (ICAC)</i>, Portsmouth, United Kingdom, 2021, pp. 1-6, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.23919%2FICAC50006.2021.9594210&btnG=">10.23919/ICAC50006.2021.9594210</a>.</p>
-</li>
 <li><p><b>Y. Xu</b>, H. Zhao, X. Zhou, S. E. Ovur and T. Xia, &ldquo;Energy Management for Medical Rescue Robot,&rdquo; in <i>2020 5th International Conference on Advanced Robotics and Mechatronics (ICARM)</i>, Shenzhen, China, Dec 18–21, 2020, pp. 44-49, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FICARM49381.2020.9195370&btnG=">DOI:10.1109/ICARM49381.2020.9195370</a>.</p>
 </li>
+
+<li><p>Z. Liu, <b>Y. Xu</b>, L. Zhang, S. Wang and J. Wang, &ldquo;The Control Strategy for Vehicle Transfer Robots in RO/RO Terminal Environments,&rdquo; in <i>2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) </i>, Abu Dhabi, United Arab Emirates, 2024, pp. 2237-2242,  <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FIROS58592.2024.10801881&btnG=">DOI:10.1109/IROS58592.2024.10801881</a>.（EI, CCF C, IROS 2024）</p>
+</li>
+
+
+<li><p>J. Si, B. Li, <b>Y. Xu</b>, C. Deng， S. Wang, and J. Wang, &ldquo;Trajectory-prediction-based Dynamic Tracking of a UGV to a Moving Target under Multi-disturbed Conditions&rdquo; in <i>2024 IEEE International Conference on Robotics and Automation (ICRA) </i>, Yokohama, Japan, 2024, pp. 18265-18271, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FICRA57147.2024.10611690&btnG=">DOI:10.1109/ICRA57147.2024.10611690</a>.（EI, CCF B, ICRA 2024）</p>
+</li>
+
+<li><p>Z. Liu, L. Zhang, S. Wang, T. Niu, <b>Y. Xu</b> and J. Cao, &ldquo;Research on Path Planning of Mobile Robot Based on DWA-IMP-A* Algorithm&rdquo; in <i>2023 42nd Chinese Control Conference (CCC) </i>, Tianjin, China, 2023, pp. 4261-4266, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.23919%2FCCC58697.2023.10240368&btnG=">DOI:10.23919/CCC58697.2023.10240368</a>.（EI, CCC 2024）</p>
+</li>
+
+<li><p>L. Ma, T. Chen, S. Wang, <b>Y. Xu</b> and J. Wang, &ldquo;Autonomous Robot System for Speed Tests of Vehicle&rdquo; in <i>2023 42nd Chinese Control Conference (CCC) </i>, Tianjin, China, 2023, pp. 2838-2843, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.23919%2FCCC58697.2023.10240056&btnG=">DOI:10.23919/CCC58697.2023.10240056</a>. （EI, CCC 2024）</p>
+</li>
+
+<li><p>H. Zhao, C. Luo, <b>Y. Xu</b>* and J. Li, &ldquo;Differential Steering Control for 6 × 6 Wheel-drive Mobile Robot,&rdquo; in <i>2021 26th International Conference on Automation and Computing (ICAC)</i>, Portsmouth, United Kingdom, Sep. 2–4, 2021, pp. 1-6,<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.23919%2FICAC50006.2021.9594210&btnG=">DOI:10.23919/ICAC50006.2021.9594210</a>.（EI, ICAC 2021）</p>
+</li>
+
+<li><p>X. Zhou, J. He, W. Qi, Y. Hu, J. Dai, and <b>Y. Xu</b>, &ldquo;Hybrid IMU/muscle signals powered teleoperation control of serial manipulator incorporating passivity adaptation,&rdquo; <i>2021 26th International Conference on Automation and Computing (ICAC)</i>, Portsmouth, United Kingdom, 2021, pp. 1-6, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.23919%2FICAC50006.2021.9594210&btnG=">10.23919/ICAC50006.2021.9594210</a>.</p>
+</li>
+
 </ol>
 </section>
 
