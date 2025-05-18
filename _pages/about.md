@@ -106,7 +106,7 @@ redirect_from:
 <li><p><b>Y. Xu</b>, S. Wang, H. Zhao and Z. Chen, &ldquo;Coordinated Motion Control for a Six-wheel-drive Skid-steering Mobile Robot,&rdquo; <i>2021 China Automation Congress (CAC)</i>, Beijing, China, 2021, pp. 7092-7097, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FCAC53003.2021.9727382&btnG=">DOI:10.1109/CAC53003.2021.9727382</a>.（EI, CAC2021）</p>
 </li>
 
-<li><p><b>Y. Xu</b>, H. Zhao, X. Zhou, S. E. Ovur and T. Xia, &ldquo;Energy Management for Medical Rescue Robot,&rdquo; in <i>2020 5th International Conference on Advanced Robotics and Mechatronics (ICARM)</i>, Shenzhen, China, Dec 18–21, 2020, pp. 44-49, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FICARM49381.2020.9195370&btnG=">DOI:10.1109/ICARM49381.2020.9195370</a>.</p>
+<li><p><b>Y. Xu</b>, H. Zhao, X. Zhou, S. E. Ovur and T. Xia, &ldquo;Energy Management for Medical Rescue Robot,&rdquo; in <i>2020 5th International Conference on Advanced Robotics and Mechatronics (ICARM)</i>, Shenzhen, China, Dec 18–21, 2020, pp. 44-49, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FICARM49381.2020.9195370&btnG=">DOI:10.1109/ICARM49381.2020.9195370</a>.（EI, ICARM2020） </p>
 </li>
 
 <li><p>Z. Liu, <b>Y. Xu</b>, L. Zhang, S. Wang and J. Wang, &ldquo;The Control Strategy for Vehicle Transfer Robots in RO/RO Terminal Environments,&rdquo; in <i>2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) </i>, Abu Dhabi, United Arab Emirates, 2024, pp. 2237-2242,  <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1109%2FIROS58592.2024.10801881&btnG=">DOI:10.1109/IROS58592.2024.10801881</a>.（EI, CCF C, IROS 2024）</p>
@@ -125,7 +125,7 @@ redirect_from:
 <li><p>H. Zhao, C. Luo, <b>Y. Xu</b>* and J. Li, &ldquo;Differential Steering Control for 6 × 6 Wheel-drive Mobile Robot,&rdquo; in <i>2021 26th International Conference on Automation and Computing (ICAC)</i>, Portsmouth, United Kingdom, Sep. 2–4, 2021, pp. 1-6,<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.23919%2FICAC50006.2021.9594210&btnG=">DOI:10.23919/ICAC50006.2021.9594210</a>.（EI, ICAC 2021）</p>
 </li>
 
-<li><p>X. Zhou, J. He, W. Qi, Y. Hu, J. Dai, and <b>Y. Xu</b>, &ldquo;Hybrid IMU/muscle signals powered teleoperation control of serial manipulator incorporating passivity adaptation,&rdquo; <i>2021 26th International Conference on Automation and Computing (ICAC)</i>, Portsmouth, United Kingdom, 2021, pp. 1-6, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.23919%2FICAC50006.2021.9594210&btnG=">10.23919/ICAC50006.2021.9594210</a>.</p>
+<li><p>X. Zhou, J. He, W. Qi, Y. Hu, J. Dai, and <b>Y. Xu</b>, &ldquo;Hybrid IMU/muscle signals powered teleoperation control of serial manipulator incorporating passivity adaptation,&rdquo; <i>2021 26th International Conference on Automation and Computing (ICAC)</i>, Portsmouth, United Kingdom, 2021, pp. 1-6, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.23919%2FICAC50006.2021.9594210&btnG=">10.23919/ICAC50006.2021.9594210</a>.（EI, ICARM2020）</p>
 </li>
 
 </ol>
