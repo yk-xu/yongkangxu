@@ -54,7 +54,7 @@ redirect_from:
 
 <ol>
 
-<li><p><b>Y. Xu</b>, L. Zhang, S. Wang and J. Wang, &ldquo;Autonomous Transportation Robots for Finished Vehicle Docking in RORO Logistics Terminal: Design, Control, and Implementation,&rdquo; <i>Journal of Field Robotics</i>, vol. 68, no. 5, pp. 150210, Jan.25,2026, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1007%2Fs11432-024-4395-7&btnG=">DOI:10.1007/s11432-024-4395-7</a>. <b><span style="font-family: serif; color: black;">（IF：7.3, 中科院一区 TOP）</span></b> </p>
+<li><p><b>Y. Xu</b>, L. Zhang, S. Wang and J. Wang, &ldquo;Autonomous Transportation Robots for Finished Vehicle Docking in RORO Logistics Terminal: Design, Control, and Implementation,&rdquo; <i>Journal of Field Robotics</i>, vol. 68, no. 5, pp. 150210, Jan.25,2026, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1007%2Fs11432-024-4395-7&btnG=">DOI:10.1007/s11432-024-4395-7</a>. <b><span style="font-family: serif; color: black;">（IF：5.2 , 中科院二区）</span></b> </p>
 </li>
   
 <li><p><b>Y. Xu</b>, R. Bao, L. Zhang, S. Wang and J. Wang, &ldquo;Embodied intelligence in RO/RO logistic terminal: autonomous intelligent transportation robot architecture,&rdquo; <i>SCIENCE CHINA Information Sciences</i>, vol. 68, no. 5, pp. 150210, Apr.25,2025, <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=10.1007%2Fs11432-024-4395-7&btnG=">DOI:10.1007/s11432-024-4395-7</a>. <b><span style="font-family: serif; color: black;">（IF：7.3, 中科院一区 TOP）</span></b> </p>
@@ -418,6 +418,8 @@ Z. Bao, **M. Lu**, F. Deng
 
 <h3>International Program Committee</h3>
 <ul>
+<li><p>Local Organizing Committee Chair: 2026 IEEE 7th International Conference on Artificial Intelligence and Electromechanical Automation (AIEA 2026) &amp; Automation, Shenzhen, China, Jun. 26–28, 2026</p>
+</li>
 <li><p>Session Chair: The 2023 WRC Symposium on Advanced Robotics and Automation（WRC SARA） &amp; Automation, Beijing, China, Aug. 23–24, 2023</p>
 </li>
  <li><p>Youth Editor: Journal of Artificial Intelligence & Control Systems, 2025</p>
